@@ -1,0 +1,10 @@
+The dependencies of this project are as follows:
+
+1. tkinter
+2. Pillow(PIL)
+3. OpenCV2(cv2)
+4. os
+5. threading
+6. insightface
+7. sklearn
+8. warnings
