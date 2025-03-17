@@ -1,0 +1,33 @@
+# Machine Learning & NLP
+faiss-cpu==1.7.3
+torch==2.0.1
+sentence-transformers==2.2.2
+
+# LangChain and LLM-related tools
+langchain-ollama==0.0.8
+langchain-core==0.0.4
+langchain-community==0.0.3
+huggingface-hub==0.14.1
+transformers==4.29.2
+
+# Additional LLM & search tools
+tavily==0.1.0
+langgraph==0.1.7
+llama-index==0.5.6
+
+# Web server & API
+Flask==2.2.5
+flask-cors==3.0.10
+
+# Database
+pymongo==4.3.3
+
+# Document & Image Processing
+PyPDF2==3.0.1
+opencv-python==4.8.0.76
+numpy==1.24.3
+pytesseract==0.3.10
+Pillow==10.0.0
+
+# Utilities
+requests==2.31.0

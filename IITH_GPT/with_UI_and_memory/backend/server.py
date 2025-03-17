@@ -27,7 +27,7 @@ import pytesseract
 
 # For PDF processing
 from PyPDF2 import PdfReader
-
+pytesseract.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 # Setup MongoDB client.
 MONGODB_URI = "MONGODB KEY"
 client = MongoClient(MONGODB_URI)
