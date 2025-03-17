@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>AutoCorrect AI</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/diff_match_patch/20121119/diff_match_patch.js"></script>
+    <style>
+      @import url("https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap");
+
+      :root {
+        --primary: #7c3aed;
+        --primary-light: #ddd6fe;
+        --primary-dark: #5b21b6;
+        --secondary: #10b981;
+        --neutral-50: #f9fafb;
+        --neutral-100: #f3f4f6;
+        --neutral-200: #e5e7eb;
+        --neutral-300: #d1d5db;
+        --neutral-700: #374151;
+        --neutral-800: #1f2937;
+        --neutral-900: #111827;
+        --error: #ef4444;
+        --warning: #f59e0b;
+        --info: #3b82f6;
+        --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.05);
+        --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1),
+          0 2px 4px -1px rgba(0, 0, 0, 0.06);
+        --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+          0 4px 6px -2px rgba(0, 0, 0, 0.05);
+        --rounded-sm: 0.25rem;
+        --rounded: 0.5rem;
+        --rounded-md: 0.75rem;
+        --rounded-lg: 1rem;
+        --rounded-full: 9999px;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Outfit", sans-serif;
+        background-color: var(--neutral-900);
+        color: var(--neutral-200);
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+      }
+
+      .navbar {
+        background: rgba(31, 41, 55, 0.8);
+        backdrop-filter: blur(8px);
+        padding: 1rem;
+        position: sticky;
+        top: 0;
+        z-index: 100;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+      }
+
+      .navbar-content {
+        max-width: 1200px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .logo {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+        font-weight: 700;
+        font-size: 1.5rem;
+        color: white;
+      }
+
+      .logo-icon {
+        width: 36px;
+        height: 36px;
+        background: var(--primary);
+        border-radius: var(--rounded);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .accent {
+        color: var(--primary);
+      }
+
+      main {
+        flex: 1;
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 2rem 1rem;
+        width: 100%;
+      }
+
+      .columns {
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 2rem;
+      }
+
+      @media (min-width: 1024px) {
+        .columns {
+          grid-template-columns: 3fr 2fr;
+        }
+      }
+
+      .card {
+        background: var(--neutral-800);
+        border-radius: var(--rounded-lg);
+        overflow: hidden;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        height: fit-content;
+      }
+
+      .card-header {
+        padding: 1.25rem 1.5rem;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
+
+      .card-title {
+        font-size: 1.25rem;
+        font-weight: 600;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .card-title svg {
+        width: 20px;
+        height: 20px;
+        opacity: 0.7;
+      }
+
+      .card-content {
+        padding: 1.5rem;
+      }
+
+      .editor {
+        min-height: 300px;
+        position: relative;
+        border-radius: var(--rounded-md);
+        background: rgba(17, 24, 39, 0.7);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        transition: all 0.3s ease;
+      }
+
+      .editor:focus-within {
+        border-color: var(--primary);
+        box-shadow: 0 0 0 3px rgba(124, 58, 237, 0.2);
+      }
+
+      .editor-header {
+        padding: 0.75rem 1rem;
+        background: rgba(31, 41, 55, 0.8);
+        border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        border-radius: var(--rounded-md) var(--rounded-md) 0 0;
+      }
+
+      .editor-title {
+        font-size: 0.875rem;
+        font-weight: 500;
+        color: var(--neutral-300);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .editor-actions {
+        display: flex;
+        align-items: center;
+        gap: 0.75rem;
+      }
+
+      .editor-action {
+        width: 28px;
+        height: 28px;
+        border-radius: var(--rounded-full);
+        background: rgba(255, 255, 255, 0.1);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        cursor: pointer;
+        transition: all 0.2s ease;
+      }
+
+      .editor-action:hover {
+        background: rgba(255, 255, 255, 0.2);
+      }
+
+      .editor-action svg {
+        width: 16px;
+        height: 16px;
+        color: var(--neutral-300);
+      }
+
+      .editor-content {
+        position: relative;
+      }
+
+      textarea {
+        width: 100%;
+        min-height: 240px;
+        padding: 1.25rem;
+        background: transparent;
+        color: white;
+        border: none;
+        font-family: "Outfit", sans-serif;
+        font-size: 1.125rem;
+        line-height: 1.6;
+        resize: none;
+        outline: none;
+      }
+
+      textarea::placeholder {
+        color: rgba(255, 255, 255, 0.3);
+      }
+
+      .metrics {
+        position: absolute;
+        bottom: 1rem;
+        right: 1rem;
+        display: flex;
+        align-items: center;
+        gap: 1rem;
+        pointer-events: none;
+      }
+
+      .metric {
+        font-size: 0.75rem;
+        color: var(--neutral-300);
+        background: rgba(31, 41, 55, 0.8);
+        padding: 0.25rem 0.5rem;
+        border-radius: var(--rounded-sm);
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+      }
+
+      .suggestion-panel {
+        margin-top: 1.5rem;
+      }
+
+      .suggestion-box {
+        background: rgba(31, 41, 55, 0.6);
+        border-radius: var(--rounded-md);
+        padding: 1.25rem;
+        font-size: 1.125rem;
+        line-height: 1.6;
+        min-height: 100px;
+        transition: all 0.3s ease;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+      }
+
+      .suggestion-box:empty {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        color: var(--neutral-300);
+        opacity: 0.7;
+      }
+
+      .suggestion-box:empty::before {
+        content: "AI suggestions will appear here";
+        font-style: italic;
+      }
+
+      .highlight {
+        background: rgba(124, 58, 237, 0.15);
+        border-radius: var(--rounded-sm);
+        padding: 0 0.25rem;
+        border-bottom: 2px solid var(--primary);
+        cursor: pointer;
+        position: relative;
+        transition: all 0.15s ease;
+      }
+
+      .highlight:hover {
+        background: rgba(124, 58, 237, 0.25);
+      }
+
+      .tooltip {
+        position: absolute;
+        background-color: var(--primary);
+        color: white;
+        padding: 0.5rem 0.75rem;
+        border-radius: var(--rounded-sm);
+        font-size: 0.875rem;
+        bottom: 100%;
+        left: 50%;
+        transform: translateX(-50%);
+        margin-bottom: 8px;
+        white-space: nowrap;
+        z-index: 100;
+        box-shadow: var(--shadow-md);
+        opacity: 1;
+        transition: opacity 0.2s ease;
+        pointer-events: none;
+      }
+
+      .tooltip::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: var(--primary) transparent transparent transparent;
+      }
+
+      .active-suggestion {
+        background: rgba(124, 58, 237, 0.3);
+        border-bottom: 2px solid var(--primary-light);
+      }
+
+      .keyboard-shortcuts {
+        margin-top: 1rem;
+      }
+
+      .shortcuts-title {
+        font-size: 0.875rem;
+        color: var(--neutral-300);
+        margin-bottom: 0.75rem;
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+      }
+
+      .shortcuts-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+        gap: 0.5rem;
+      }
+
+      .shortcut {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.5rem;
+        background: rgba(31, 41, 55, 0.6);
+        border-radius: var(--rounded-sm);
+        font-size: 0.875rem;
+      }
+
+      .shortcut-keys {
+        display: flex;
+        align-items: center;
+        gap: 0.25rem;
+      }
+
+      .key {
+        background: rgba(255, 255, 255, 0.1);
+        border: 1px solid rgba(255, 255, 255, 0.1);
+        border-radius: var(--rounded-sm);
+        padding: 0.2rem 0.4rem;
+        font-size: 0.75rem;
+        font-family: monospace;
+        min-width: 24px;
+        text-align: center;
+        box-shadow: 0 2px 0 rgba(0, 0, 0, 0.2);
+      }
+
+      .plus {
+        opacity: 0.5;
+      }
+
+      .sidebar-card {
+        margin-bottom: 2rem;
+      }
+
+      .stats-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+      }
+
+      .stat-card {
+        background: rgba(31, 41, 55, 0.6);
+        border-radius: var(--rounded);
+        padding: 1.25rem;
+        border: 1px solid rgba(255, 255, 255, 0.08);
+        display: flex;
+        flex-direction: column;
+        align-items: flex-start;
+      }
+
+      .stat-value {
+        font-size: 2rem;
+        font-weight: 700;
+        margin-top: 0.5rem;
+      }
+
+      .stat-value.success {
+        color: var(--secondary);
+      }
+
+      .stat-value.warning {
+        color: var(--warning);
+      }
+
+      .stat-value.info {
+        color: var(--info);
+      }
+
+      .stat-value.primary {
+        color: var(--primary);
+      }
+
+      .stat-label {
+        font-size: 0.875rem;
+        color: var(--neutral-300);
+      }
+
+      .history-list {
+        margin-top: 1rem;
+      }
+
+      .history-item {
+        padding: 0.75rem;
+        border-radius: var(--rounded-sm);
+        background: rgba(31, 41, 55, 0.3);
+        margin-bottom: 0.75rem;
+        border-left: 3px solid var(--primary);
+      }
+
+      .history-item:last-child {
+        margin-bottom: 0;
+      }
+
+      .history-text {
+        margin-bottom: 0.5rem;
+        font-size: 0.875rem;
+      }
+
+      .history-correction {
+        padding: 0.5rem;
+        background: rgba(16, 185, 129, 0.1);
+        border-radius: var(--rounded-sm);
+        color: var(--secondary);
+        font-size: 0.875rem;
+      }
+
+      .notification {
+        position: fixed;
+        top: 20px;
+        right: 20px;
+        padding: 0.75rem 1rem;
+        background: var(--secondary);
+        color: white;
+        border-radius: var(--rounded);
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        z-index: 9999;
+        box-shadow: var(--shadow-lg);
+        transform: translateY(-100px);
+        opacity: 0;
+        transition: all 0.3s ease;
+      }
+
+      .notification.show {
+        transform: translateY(0);
+        opacity: 1;
+      }
+
+      .instruction-step {
+        display: flex;
+        gap: 1rem;
+        margin-bottom: 1.25rem;
+      }
+
+      .step-number {
+        width: 28px;
+        height: 28px;
+        background: var(--primary);
+        border-radius: var(--rounded-full);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-weight: 700;
+        flex-shrink: 0;
+      }
+
+      .step-content h3 {
+        font-size: 1rem;
+        margin-bottom: 0.25rem;
+      }
+
+      .step-content p {
+        font-size: 0.875rem;
+        color: var(--neutral-300);
+      }
+
+      /* Custom scrollbar */
+      ::-webkit-scrollbar {
+        width: 8px;
+        height: 8px;
+      }
+
+      ::-webkit-scrollbar-track {
+        background: rgba(0, 0, 0, 0.1);
+      }
+
+      ::-webkit-scrollbar-thumb {
+        background: rgba(255, 255, 255, 0.2);
+        border-radius: var(--rounded-full);
+      }
+
+      ::-webkit-scrollbar-thumb:hover {
+        background: rgba(255, 255, 255, 0.3);
+      }
+
+      @media (max-width: 768px) {
+        .stat-value {
+          font-size: 1.5rem;
+        }
+
+        .card-header {
+          padding: 1rem;
+        }
+
+        .card-content {
+          padding: 1rem;
+        }
+
+        textarea {
+          font-size: 1rem;
+          padding: 1rem;
+        }
+      }
+
+      @keyframes pulse {
+        0% {
+          opacity: 0.6;
+        }
+        50% {
+          opacity: 1;
+        }
+        100% {
+          opacity: 0.6;
+        }
+      }
+
+      .pulse {
+        animation: pulse 1.5s infinite;
+      }
+
+      .ai-indicator {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.5rem 0.75rem;
+        background: rgba(124, 58, 237, 0.2);
+        border-radius: var(--rounded-full);
+        font-size: 0.75rem;
+        font-weight: 500;
+      }
+
+      .ai-dot {
+        width: 8px;
+        height: 8px;
+        background: var(--primary);
+        border-radius: var(--rounded-full);
+      }
+    </style>
+  </head>
+  <body>
+    <script src="/static/js/scripts.js"></script>
+    <div class="navbar">
+      <div class="navbar-content">
+        <div class="logo">
+          <div class="logo-icon">
+            <svg
+              xmlns="http://www.w3.org/2000/svg"
+              width="20"
+              height="20"
+              viewBox="0 0 24 24"
+              fill="none"
+              stroke="currentColor"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            >
+              <path d="M20.24 12.24a6 6 0 0 0-8.49-8.49L5 10.5V19h8.5z"></path>
+              <line x1="16" y1="8" x2="2" y2="22"></line>
+              <line x1="17.5" y1="15" x2="9" y2="15"></line>
+            </svg>
+          </div>
+          <span>Auto<span class="accent">Correct</span></span>
+        </div>
+        <div class="ai-indicator">
+          <div class="ai-dot pulse"></div>
+          AI Active
+        </div>
+      </div>
+    </div>
+
+    <main>
+      <div class="columns">
+        <div class="editor-column">
+          <div class="card">
+            <div class="card-header">
+              <div class="card-title">
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="24"
+                  height="24"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  stroke-width="2"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                >
+                  <path d="M12 20h9"></path>
+                  <path
+                    d="M16.5 3.5a2.121 2.121 0 0 1 3 3L7 19l-4 1 1-4L16.5 3.5z"
+                  ></path>
+                </svg>
+                Smart Editor
+              </div>
+            </div>
+            <div class="card-content">
+              <div class="editor">
+                <div class="editor-header">
+                  <div class="editor-title">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="16"
+                      height="16"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-width="2"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    >
+                      <path
+                        d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"
+                      ></path>
+                      <path
+                        d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"
+                      ></path>
+                    </svg>
+                    Document
+                  </div>
+                  <div class="editor-actions">
+                    <div class="editor-action">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <path d="M12 5v14"></path>
+                        <path d="M5 12h14"></path>
+                      </svg>
+                    </div>
+                    <div class="editor-action">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <circle cx="12" cy="12" r="1"></circle>
+                        <circle cx="19" cy="12" r="1"></circle>
+                        <circle cx="5" cy="12" r="1"></circle>
+                      </svg>
+                    </div>
+                  </div>
+                </div>
+                <div class="editor-content">
+                  <textarea
+                    id="sentenceInput"
+                    placeholder="Start typing here. As you type, AI will analyze your text and offer improvements."
+                  ></textarea>
+                  <div class="metrics">
+                    <div class="metric">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="12"
+                        height="12"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <path
+                          d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"
+                        ></path>
+                      </svg>
+                      <span id="wordCount">0</span> words
+                    </div>
+                    <div class="metric">
+                      <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="12"
+                        height="12"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-width="2"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                      >
+                        <path
+                          d="M17 3a2.828 2.828 0 1 1 4 4L7.5 20.5 2 22l1.5-5.5L17 3z"
+                        ></path>
+                      </svg>
+                      <span id="charCount">0</span> chars
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+              <div class="suggestion-panel">
+                <div id="renderedText" class="suggestion-box"></div>
+
+                <div class="keyboard-shortcuts">
+                  <div class="shortcuts-title">
+                    <svg
+                      xmlns="http://www.w3.org/2000/svg"
+                      width="16"
+                      height="16"
+                      viewBox="0 0 24 24"
+                      fill="none"
+                      stroke="currentColor"
+                      stroke-width="2"
+                      stroke-linecap="round"
+                      stroke-linejoin="round"
+                    >
+                      <rect
+                        x="2"
+                        y="3"
+                        width="20"
+                        height="14"
+                        rx="2"
+                        ry="2"
+                      ></rect>
+                      <line x1="8" y1="21" x2="16" y2="21"></line>
+                      <line x1="12" y1="17" x2="12" y2="21"></line>
+                    </svg>
+                    Keyboard Shortcuts
+                  </div>
+                  <div class="shortcuts-grid">
+                    <div class="shortcut">
+                      <span>Next suggestion</span>
+                      <div class="shortcut-keys">
+                        <span class="key">Ctrl</span>
+                        <span class="plus">+</span>
+                        <span class="key">]</span>
+                      </div>
+                    </div>
+                    <div class="shortcut">
+                      <span>Previous suggestion</span>
+                      <div class="shortcut-keys">
+                        <span class="key">Ctrl</span>
+                        <span class="plus">+</span>
+                        <span class="key">[</span>
+                      </div>
+                    </div>
+                    <div class="shortcut">
+                      <span>Accept suggestion</span>
+                      <div class="shortcut-keys">
+                        <span class="key">Enter</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="sidebar-column">
+          <div class="sidebar-card">
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path d="M12 20V10"></path>
+                    <path d="M18 20V4"></path>
+                    <path d="M6 20v-4"></path>
+                  </svg>
+                  Stats & Analytics
+                </div>
+              </div>
+              <div class="card-content">
+                <div class="stats-grid">
+                  <div class="stat-card">
+                    <div class="stat-label">Words</div>
+                    <div id="totalWordCount" class="stat-value info">0</div>
+                  </div>
+                  <div class="stat-card">
+                    <div class="stat-label">Corrections</div>
+                    <div id="correctionCount" class="stat-value primary">0</div>
+                  </div>
+                  <div class="stat-card">
+                    <div class="stat-label">Accuracy</div>
+                    <div id="accuracyRate" class="stat-value success">100%</div>
+                  </div>
+                  <div class="stat-card">
+                    <div class="stat-label">Sentences</div>
+                    <div id="sentenceCount" class="stat-value warning">0</div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="sidebar-card">
+            <div class="card">
+              <div class="card-header">
+                <div class="card-title">
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="24"
+                    height="24"
+                    viewBox="0 0 24 24"
+                    fill="none"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  >
+                    <path d="M12 3a6 6 0 0 0 9 9 9 9 0 1 1-9-9Z"></path>
+                  </svg>
+                  How It Works
+                </div>
+              </div>
+              <div class="card-content">
+                <div class="instruction-steps">
+                  <div class="instruction-step">
+                    <div class="step-number">1</div>
+                    <div class="step-content">
+                      <h3>Write Your Text</h3>
+                      <p>
+                        Type in the editor. The AI analyzes your writing in
+                        real-time.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="instruction-step">
+                    <div class="step-number">2</div>
+                    <div class="step-content">
+                      <h3>Complete a Sentence</h3>
+                      <p>
+                        End with a period (.) or question mark (?) to trigger
+                        analysis.
+                      </p>
+                    </div>
+                  </div>
+                  <div class="instruction-step">
+                    <div class="step-number">3</div>
+                    <div class="step-content">
+                      <h3>Review Suggestions</h3>
+                      <p>Highlighted words indicate potential improvements.</p>
+                    </div>
+                  </div>
+                  <div class="instruction-step">
+                    <div class="step-number">4</div>
+                    <div class="step-content">
+                      <h3>Apply Corrections</h3>
+                      <p>
+                        Click on any highlight or use keyboard shortcuts to
+                        accept.
+                      </p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+  </body>
+</html>
