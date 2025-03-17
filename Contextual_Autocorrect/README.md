@@ -6,7 +6,7 @@ Contextual AutoCorrect is our machine learning model repository based on **T5**,
 ## Frontend Preview
 Here’s a screenshot of the frontend (click the image to watch the demo video):
 
-[![Watch the demo](assets/screenshot.png)](assets/Autocorrect_Demo (2).mp4)
+[![Watch the demo](assets/screenshot.png)](assets/Autocorrect_Demo.mp4)
 
 ## Contents
 - **Context-aware corrections** for spelling and grammar.
@@ -79,4 +79,3 @@ ContextualAutoCorrect/
 │── environment.yml         # Conda environment dependencies
 │── README.md               # Project documentation
 ```
-
