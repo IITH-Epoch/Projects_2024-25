@@ -1,10 +1,10 @@
-# HMES-CNN: Handwritten Mathematical Expression Solver using CNN
+# Handwritten Mathematical Expression Solver using CNN
 
 A deep learning solution for recognizing and solving handwritten mathematical expressions using Convolutional Neural Networks.
 
 ## Overview
 
-HMES-CNN is a complete pipeline for:
+Handwritten Mathematical Expression Solver is a complete pipeline for:
 1. Detecting and segmenting handwritten mathematical symbols
 2. Classifying symbols using a trained CNN model
 3. Converting recognized symbols into LaTeX expressions
@@ -23,12 +23,30 @@ HMES-CNN is a complete pipeline for:
 - Mathematical expression solving using SymPy
 - User-friendly web interface using Streamlit
 
+### Solver Features
+
+- Linear Equations
+- Roots of polynomials
+- Exponential Equations
+- Simplification of plain expressions
+- Rational Equations
+- Multivariate Equations
+- Check if equality is true/false
+
+### UI Features
+
+- Allow user to upload images
+- Get the predicted LaTeX expression, that can be copied to the clipboard directly
+- The predicted LaTeX is rendered on the screen for easy checking
+- The user has the option to manually correct the expression, in case of mis-identification
+- An option to solve/simplify the equation/expression
+
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/aroshishp/Handwritten_Math_Expn_Solver.git
-cd HMES-CNN
+git clone https://github.com//IITH-Epoch/Projects_2024-25.git
+cd Projects_2024-25/Handwritten_Math_Expn_Solver
 ```
 
 2. Install the required dependencies:
@@ -65,23 +83,10 @@ The CNN architecture consists of:
 - 3 convolutional layers with ReLU activation and max pooling
 - 3 fully connected layers with dropout
 - Input size: 64x64 grayscale images
-- Output: 12 symbol classes
+- Output: 49 symbol classes
 
-## Project Structure
-
-```
-HMES-CNN/
-│
-├── Data Gen/
-│   ├── hmes_cnn.ipynb        # Model training notebook
-│   ├── expn_infer.ipynb      # Inference notebook
-│   ├── streamlit_app.py      # Web interface
-│   ├── requirements.txt      # Dependencies
-│   └── README.md            # Documentation
-│
-└── models/
-    └── final_math_symbol_cnn.pth  # Trained model weights
-```
+## Demo Video
+![Demo](https://github.com/IITH-Epoch/Projects_2024-25/blob/main/Handwritten_Math_Expn_Solver/HMES%20Demo%203.gif)
 
 ## Requirements
 
