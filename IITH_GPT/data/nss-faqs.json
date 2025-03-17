@@ -1,0 +1,155 @@
+[
+    {
+        "title": "FAQs",
+        "content": [
+            "Section Heading",
+            "FAQ Area"
+        ]
+    },
+    {
+        "title": "What is NSS? What do they do?",
+        "content": [
+            "National Service Scheme is a social service program sponsored by the Indian Government that sprang from the belief of the Mahatma that the difference between what we do and what we are capable of doing would solve most of our problems. NSS at IIT Hyderabad is aimed at providing each student with a significant context in which he/she can reach a deeper understanding of social reality in India today."
+        ]
+    },
+    {
+        "title": "Should a student complete NSS hours before graduation?",
+        "content": [
+            "It is not compulsory for every student. However in order to graduate, a B.Tech student need to complete either 120 hours in NSS or 240 hours in NSO."
+        ]
+    },
+    {
+        "title": "How to register as an NSS volunteer?",
+        "content": [
+            "To register as an NSS volunteer you need to register to the course NS1002 as an additional elective (which can be in any odd semester) and also register to the NSS database through a form which will be floated by NSS to all first year students in the beginning of their first semester."
+        ]
+    },
+    {
+        "title": "Do I need to register for NSS every semester?",
+        "content": [
+            "No. An NSS volunteer needs to register to NS1002 in AIMS portal and to NSS database only once over the course of their graduation. However in order to reflect the no.of hours the volunteer spent during an activity in the hours portal the volunteer need to register to the NSS database before a volunteer participates in their first event."
+        ]
+    },
+    {
+        "title": "Will a student receive hours for participating in an NSS event even if he/she has not registered to be an NSS volunteer?",
+        "content": [
+            "Anyone can participate in NSS events however, a student will be awarded hours only if he/she has registered to the NSS database. Else their hours will not be tracked."
+        ]
+    },
+    {
+        "title": "How many hours have to be completed by a NSS volunteer?",
+        "content": [
+            "A student needs to complete 120 hours overall and minimum hours in each of the 4 categories (as mentioned in the next FAQ) as an NSS volunteer before his/her graduation."
+        ]
+    },
+    {
+        "title": "How many hours should one complete in each category?",
+        "content": [
+            "An NSS volunteer need to complete a minimum of:",
+            "30 hours in Category-1",
+            "30 hours in Category-2",
+            "10 hours in Category-3",
+            "20 hours in category-4",
+            "Which add up to a total of 90 hours. Remaining 30 hours can be completed in any of the 4 categories."
+        ]
+    },
+    {
+        "title": "Is there an official documentation of NSS? And where can I find it?",
+        "content": [
+            "Yes, the NSS Constitution is an official documentation that states all the rules and the code of conduct of every activity under NSS."
+        ]
+    },
+    {
+        "title": "Where and how to check the number of NSS hours completed ?",
+        "content": [
+            "The NSS Hours Portal shows the number of hours you have completed in each category along with your total hours in all the categories."
+        ]
+    },
+    {
+        "title": "What are the different categories of NSS events? How do I get to know which category any event falls under?",
+        "content": [
+            "The events conducted under NSS have been classified into 4 different categories (mentioned in the constitution). Students will also be notified about the category of an event in the email which will be sent to announce that particular event."
+        ]
+    },
+    {
+        "title": "How to know the no.of hours awarded for an event?",
+        "content": [
+            "The hours for each event will be different and based on the time and effort spent by a volunteer. However, the range of hours awarded for every event can be seen in the constitution under the section Hours per event."
+        ]
+    },
+    {
+        "title": "How much time will it take for the allotment of hours after the event has been completed?",
+        "content": [
+            "Generally, the allotment of hours is done within 7 days after the deadline for the event (for online events) or date of conduct of the event (for offline events). A mail will be sent to the volunteers once the hours are allotted. The hours received by a volunteer can be seen at NSS Hours Portal. In case of any issues with the hours, a volunteer can mail NSS or message any of the numbers mentioned at the bottom of every mail sent by NSS IITH."
+        ]
+    },
+    {
+        "title": "How to contact NSS IITH?",
+        "content": [
+            "NSS IITH can be reached through mail at office.nss@iith.ac.in or through call to +91 81254 45396."
+        ]
+    },
+    {
+        "title": "What is CID? Is the course mandatory for every student to complete the course?",
+        "content": [
+            "CID (Clean India Drive) is a 1-credit course at IITH which aims to promote the idea of cleanliness in every student. The course needs to be completed by every student at IITH irrespective of being an NSS volunteer. The course needs to be registered in AIMS portal at the beginning of a semester as an additional elective."
+        ]
+    },
+    {
+        "title": "Should a student register for the course CID every semester?",
+        "content": [
+            "No. The course needs to be done once by every student at IITH through the course of his/her graduation. Hence a student needs to register for the course in AIMS portal just once as well. However, the student is advised to finish the course in the same semester as they registered the course unless they have any considerable reasons."
+        ]
+    },
+    {
+        "title": "What exactly is the difference between Udaan and Vidyadaan?",
+        "content": [
+            "Vidyadaan is an event conducted by NSS where volunteers will go to the schools near IITH and teach the children something more than what is generally taught as a part of their academics in school.",
+            "Udaan is another event conducted by NSS where the volunteers teach the children of working staff at IITH every Sunday."
+        ]
+    },
+    {
+        "title": "What does the new event “Maargdarshan” aim to do?",
+        "content": [
+            "Maargdarshan is a new event introduced into NSS in the year 2022, which aims at providing career guidance to the aspiring students studying in villages near IIT Hyderabad."
+        ]
+    },
+    {
+        "title": "What happens if a student fails to complete the required 120 hours as an NSS volunteer due to any special circumstances?",
+        "content": [
+            "If an NSS volunteer fails to complete the required 120 hours (and minimum hours in every category) then he/she will be ineligible to receive their graduation certificate."
+        ]
+    },
+    {
+        "title": "What to do if a student is not able to complete his/her NSS hours before graduation?",
+        "content": [
+            "In such a case he/she will not be eligible to receive their certificate of graduation. They will need to mail NSS to get any response in this issue."
+        ]
+    },
+    {
+        "title": "How to drop NSS from AIMS portal?",
+        "content": [
+            "NSS will be floating a form to the final year students in the month of April. Students who want to drop NSS need to fill the form specifying their reason to drop NSS. The list of these students will be shared with the academic office for further process."
+        ]
+    },
+    {
+        "title": "If a volunteer submits two entries for poster in an online event, will he/she be awarded the hours for both the entries?",
+        "content": [
+            "A volunteer will be awarded hours for only one entry of all submitted posters. In any such case, only the best entry among the two posters will be taken into record to award hours."
+        ]
+    },
+    {
+        "title": "If a volunteer submits a poster, an essay, a video in an online event, will he/she be awarded hours for all the submissions?",
+        "content": [
+            "You will be awarded hours for all of the different entries i.e. a poster, an essay and a video. However as mentioned in the previous FAQ, only one best poster, one best essay and one best video of all the submissions made by the volunteer for that event will be considered for awarding hours.",
+            "<div class=\"card border-0 wow fadeInUp\" data-wow-delay=\"0.4s\" style=\"visibility: visible; animation-delay: 0.4s; animation-name: fadeInUp;\"> <div class=\"card-header\" id=\"headingThree\"> <h6 class=\"mb-0 collapsed\" data-toggle=\"collapse\" data-target=\"#collapse23\" aria-expanded=\"true\" aria-controls=\"collapse23\">What should I do if I get an authorization error or not able to access NSS webiste? </h6> </div> <div class=\"collapse\" id=\"collapse23\" aria-labelledby=\"headingThree\" data-parent=\"#faqAccordion\"> <div class=\"card-body\"> <p>Please make sure you are:</p> <ol> <li>Using IITH Email to Login</li> <li>Using the https site : https://nss.iith.ac.in/hours_portal</li> </ol> </div> </div> </div>",
+            "Can't find your answers? Contact us",
+            "Footer",
+            "jQuery",
+            "Bootstrap tooltips",
+            "Bootstrap core JavaScript",
+            "MDB core JavaScript",
+            "Your custom scripts (optional)"
+        ]
+    }
+]

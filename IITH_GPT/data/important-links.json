@@ -1,0 +1,38 @@
+[
+    {
+        "title": "Students Guide",
+        "content": []
+    },
+    {
+        "title": "Important Links",
+        "content": [
+            "ERP Portal: https://erp.iith.ac.in/Default/Authenticate.html",
+            "ERP Portal",
+            "E-Pay Portal",
+            "E-Pay Portal: https://epay.iith.ac.in/",
+            "IITH VPN Guide: https://support.comp.iith.ac.in/kb/faq.php?id=21",
+            "IITH VPN Guide",
+            "SVA Portal (Mess Registration): https://sva.iith.ac.in/",
+            "SVA Portal (Mess Registration)",
+            "Bus Schedule: https://iithbus.vercel.app/",
+            "Bus Schedule",
+            "Cab Sharing Portal: https://cabsharing.iith.dev/",
+            "Cab Sharing Portal",
+            "Campus Navigation: https://cins.iith.ac.in/",
+            "Campus Navigation"
+        ]
+    },
+    {
+        "title": "Constitutions & Documents",
+        "content": [
+            "Constitution: https://gymkhana.iith.ac.in/documents/gymkhana%20constitution.pdf",
+            "Elan and Nvision: https://gymkhana.iith.ac.in/documents/Elan%20&%20%CE%B7Vision%202023%20Documentation.pdf",
+            "Elan and Nvision",
+            "E-Cell Prospectus: https://gymkhana.iith.ac.in/documents/E-Cell%20IITH%20Prospectus.pdf",
+            "E-Cell Prospectus",
+            "Students handbook: https://gymkhana.iith.ac.in/documents/Academic%20Handbook%202022%20(50th%20senate).pdf",
+            "Students handbook",
+            "<h2 class=\"lg:text-2xl text-4xl font-bold text-center lg:text-left\"> How to Reach IITH </h2>"
+        ]
+    }
+]

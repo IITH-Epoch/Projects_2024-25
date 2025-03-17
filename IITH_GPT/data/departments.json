@@ -1,0 +1,51 @@
+[
+    {
+        "title": "Departments",
+        "content": [
+            "Post Featured Image",
+            "End Featured Image",
+            "Post Content"
+        ]
+    },
+    {
+        "title": "Departments in Engineering",
+        "content": [
+            "Artificial Intelligence",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Chemical Engineering",
+            "Climate Change",
+            "Civil Engineering",
+            "Computer Science and Engineering",
+            "Electrical Engineering",
+            "Engineering Science",
+            "Heritage Science and Technology",
+            "Materials Science and Metallurgical Engineering",
+            "Mechanical & Aerospace Engineering"
+        ]
+    },
+    {
+        "title": "Departments in Science",
+        "content": [
+            "Chemistry",
+            "Physics",
+            "Mathematics"
+        ]
+    },
+    {
+        "title": "Departments in Liberal Arts, Design, and Management",
+        "content": [
+            "Entrepreneurship and Management"
+        ]
+    },
+    {
+        "title": "Greenko School of Sustainability",
+        "content": [
+            "Post Date",
+            "End Post",
+            "/.container",
+            "Begin Footer ==================================================",
+            "/.site-content> JavaScript =================================================="
+        ]
+    }
+]

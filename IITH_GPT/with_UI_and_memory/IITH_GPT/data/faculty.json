@@ -1,0 +1,4194 @@
+[
+    {
+        "title": "Faculty",
+        "content": [
+            "Top",
+            "All Faculty",
+            "By Department",
+            "By Research Interest",
+            "All",
+            "|",
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T",
+            "U",
+            "V",
+            "W",
+            "X",
+            "Y",
+            "Z",
+            "Department Name:",
+            "Choose Department",
+            "Artificial Intelligence",
+            "Biomedical Engineering",
+            "Biotechnology",
+            "Climate Change",
+            "Chemical Engineering",
+            "Civil Engineering",
+            "Computer Science and Engineering",
+            "Chemistry",
+            "Design",
+            "Electrical Engineering",
+            "Engineering Science",
+            "Entrepreneurship and Management",
+            "Heritage Science & Technology",
+            "Liberal Arts",
+            "Mathematics",
+            "Materials Science and Metallurgical Engineering",
+            "Mechanical and Aerospace Engineering",
+            "Physics"
+        ]
+    },
+    {
+        "title": "Regular Faculty",
+        "content": []
+    },
+    {
+        "title": "Visiting Faculty",
+        "content": []
+    },
+    {
+        "title": "Adjunct Faculty",
+        "content": []
+    },
+    {
+        "title": "Distinguished Faculty",
+        "content": []
+    },
+    {
+        "title": "Emeritus Faculty",
+        "content": []
+    },
+    {
+        "title": "Honorary Faculty",
+        "content": []
+    },
+    {
+        "title": "Advisors",
+        "content": []
+    },
+    {
+        "title": "Chair Professor",
+        "content": []
+    },
+    {
+        "title": "Professor of Practice",
+        "content": [
+            "Regular Faculty"
+        ]
+    },
+    {
+        "title": "Aalok Dinkar Khandekar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Rensselaer Polytechnic Institute",
+            "Science, technology, and society studies (STS)",
+            "Environmental sustainability",
+            "Urban studies"
+        ]
+    },
+    {
+        "title": "Aardra Surendran",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Jawaharlal Nehru University, New Delhi.",
+            "Labour Studies",
+            "Gender Studies",
+            "Social Inequality"
+        ]
+    },
+    {
+        "title": "Abhijit Sau",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Bose Institute, Kolkata",
+            "Synthetic Organic Chemistry",
+            "Medicinal Chemistry",
+            "Glycoscience"
+        ]
+    },
+    {
+        "title": "Abhinav Kumar",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Delhi",
+            "Resource allocation for 5G",
+            "Visible light based communications",
+            "Security and Privacy in wireless networks"
+        ]
+    },
+    {
+        "title": "Abhishek Subramanian",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: CSIR-National Chemical Laboratory",
+            "Computational Biology",
+            "Systems Biology",
+            "Omics Data Analyses and Bioinformatics"
+        ]
+    },
+    {
+        "title": "Abhishek Kumar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Radio-frequency Integrated Circuit Design",
+            "Wireless Communication & Networks",
+            "Nanoscience & Technology"
+        ]
+    },
+    {
+        "title": "Aditya T Siripuram",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Stanford University",
+            "Fourier analysis",
+            "Signal processing and machine learning",
+            "Convex and combinatorial optimization"
+        ]
+    },
+    {
+        "title": "Aiyappan S",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Partial differential equations",
+            "Homogenizations"
+        ]
+    },
+    {
+        "title": "Alan Ranjit Jacob",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Crete, Greece",
+            "Soft Matter",
+            "Colloids and Interfaces",
+            "3D Printing"
+        ]
+    },
+    {
+        "title": "Alok Kumar Pan",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Bose Institute, Kolkata",
+            "Quantum Information Theory",
+            "Quantum Communication",
+            "Quantum Foundations"
+        ]
+    },
+    {
+        "title": "Althuri Avanthi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Biofuels",
+            "Biochemicals",
+            "Bioprocess Technology"
+        ]
+    },
+    {
+        "title": "Ambika S",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Environmental Engineering",
+            "Catalysis",
+            "Climate Change"
+        ]
+    },
+    {
+        "title": "Amirtham Rajagopal",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Damage Mechanics",
+            "Fracture Mechanics",
+            "Finite Element and Mesh free methods"
+        ]
+    },
+    {
+        "title": "Amit Acharyya",
+        "content": [
+            "Professor",
+            "Ph.D: University of Southhampton",
+            "VLSI systems resource-constrained applications",
+            "Low Power Design Techniques",
+            "Machine learning hardware design"
+        ]
+    },
+    {
+        "title": "Amit Tripathi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Algebraic Geometry",
+            "Commutative Algebra"
+        ]
+    },
+    {
+        "title": "Amrita Deb",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Banaras Hindu University, Varanasi",
+            "Positive psychology",
+            "Clinical psychology",
+            "Personality psychology"
+        ]
+    },
+    {
+        "title": "Amrita Datta",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: The Hague, The International Institute of Social Sciences (Erasmus University Rotterdam)",
+            "Development studies",
+            "Migration and development",
+            "Gender and development"
+        ]
+    },
+    {
+        "title": "Anamika Bhargava",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Innsbruck Medical University, Innsbruck",
+            "Voltage-gated calcium channels",
+            "Electrophysiology",
+            "Channelopathies"
+        ]
+    },
+    {
+        "title": "Anand Mohan",
+        "content": [
+            "Professor",
+            "Ph.D: Texas A&M University, College Station, TX",
+            "Cardiovascular Mechanics",
+            "Complex Fluid Rheology",
+            "Biomedical Devices"
+        ]
+    },
+    {
+        "title": "Anandita Pan",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Gender studies",
+            "South Asian Literature",
+            "Intersectionality"
+        ]
+    },
+    {
+        "title": "Aneesh Sobhanan",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Fiber Optic Communication",
+            "Optical Signal Processing",
+            "Photonic Computing"
+        ]
+    },
+    {
+        "title": "Anil Agarwal",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Purdue University",
+            "Structural fire engineering",
+            "High-temperature testing",
+            "Large-scale testing"
+        ]
+    },
+    {
+        "title": "Anindita Majumdar",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Delhi",
+            "Medical anthropology",
+            "Kinship",
+            "Reproduction"
+        ]
+    },
+    {
+        "title": "Anindya Roy",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "DNA repair",
+            "Sensors",
+            "Waste Management"
+        ]
+    },
+    {
+        "title": "Anirban Naskar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Surface Engineering",
+            "Surface Finishing",
+            "Numerical Modelling of Surface Finishing Processes"
+        ]
+    },
+    {
+        "title": "Anjan Kumar Giri",
+        "content": [
+            "Professor",
+            "Ph.D: Utkal University",
+            "Flavor Physics and CP violation",
+            "Neutrino Physics",
+            "BSM"
+        ]
+    },
+    {
+        "title": "Anjana A M",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Intersection of coding theory",
+            "Wireless Communication"
+        ]
+    },
+    {
+        "title": "Ankita Roy",
+        "content": [
+            "Assistant Professor",
+            "Publication and Book Design",
+            "Ancient Scripts",
+            "Tessellations & Geometrical patterns"
+        ]
+    },
+    {
+        "title": "Ankush Kumar Jaiswal",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Human exposure to extreme heat",
+            "Thermal comfort",
+            "Desalination"
+        ]
+    },
+    {
+        "title": "Annadhasan M",
+        "content": [
+            "Assistant Professor",
+            "Nanomaterials",
+            "Organic/inorganic Materials"
+        ]
+    },
+    {
+        "title": "Antony Franklin",
+        "content": [
+            "Head (CSE) & Professor",
+            "Ph.D: IIT Madras",
+            "Wireless Networks",
+            "Mobile Networks",
+            "5G Network and Systems"
+        ]
+    },
+    {
+        "title": "Anuj Goyal",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Florida",
+            "Computational Material Science",
+            "Electronic structure theory",
+            "Defects thermodynamics"
+        ]
+    },
+    {
+        "title": "Anup Bhunia",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: National Chemical Laboratory (NCL) Pune",
+            "Organic Synthesis",
+            "Electrochemistry",
+            "Mechanochemistry"
+        ]
+    },
+    {
+        "title": "Anupam Gupta",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Soft-matter",
+            "Biophysics",
+            "Complex Systems"
+        ]
+    },
+    {
+        "title": "Anurag Tripathi",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Harish-Chandra Research Institute",
+            "High Energy Physics",
+            "Perturbative Quantum Chromodynamics",
+            "Infrared Structure of Gauge Field Theories"
+        ]
+    },
+    {
+        "title": "Anurup Datta",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Purdue University, USA",
+            "Process Monitoring of Manufacturing Processes",
+            "Laser based Micro and Nano-Nanufacturing",
+            "Applications of subwavelength laser spot using nanoscale optical antenna"
+        ]
+    },
+    {
+        "title": "Anusmita Das",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Guwahati",
+            "Design Thinking",
+            "User Experience Design",
+            "Visual Culture"
+        ]
+    },
+    {
+        "title": "Arabinda Haldar",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Magnonics",
+            "Microwave magnetics",
+            "Nanomagnetic devices"
+        ]
+    },
+    {
+        "title": "Aravind N.R.",
+        "content": [
+            "Associate Professor",
+            "Ph.D: The Institute of Mathematical Sciences, Chennai",
+            "Algorithms",
+            "Graph theory",
+            "Combinatorics"
+        ]
+    },
+    {
+        "title": "Aravind Kumar Rengan",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Nanomedicine",
+            "Bio-Nanotechnology",
+            "Photothermal Therapy"
+        ]
+    },
+    {
+        "title": "Archak Purkayastha",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: ICTS-TIFR, Bengaluru",
+            "Driven dissipative quantum many-body systems",
+            "Far-from-equilibrium quantum statistical physics",
+            "Quantum transport and thermodynamics"
+        ]
+    },
+    {
+        "title": "Arunabha Majumdar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Indian Statistical Institute, Kolkata",
+            "Statistical genetics",
+            "Biostatistics",
+            "Computational statistics"
+        ]
+    },
+    {
+        "title": "Arup Mahata",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Indore",
+            "Perovskites Optoelectronics",
+            "Surface Catalysis",
+            "Energy Storage"
+        ]
+    },
+    {
+        "title": "Ashish Mishra",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Program Verification",
+            "Program Synthesis",
+            "Programming Languages"
+        ]
+    },
+    {
+        "title": "Ashish Misra",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Genomics",
+            "Epitranscriptomics",
+            "Cancer"
+        ]
+    },
+    {
+        "title": "Ashok Kamaraj",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: AcSIR, CSIR-NML",
+            "Inclusion Engineering",
+            "Alloy Steel Development",
+            "AI/ML"
+        ]
+    },
+    {
+        "title": "Ashok Kumar Pandey",
+        "content": [
+            "Head (MAE) & Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Linear and Nonlinear Vibration",
+            "MEMS",
+            "Vehicle Dynamics"
+        ]
+    },
+    {
+        "title": "Ashudeb Dutta",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kharagpur",
+            "Analog and Radio Frequency VLSI chip design Receiver",
+            "Phase Locked Loop",
+            "Low noise amplifier"
+        ]
+    },
+    {
+        "title": "Ashutosh Kumar Mishra",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Kanpur",
+            "Bioorganic Chemistry",
+            "Sensors",
+            "Nanoscience & Technology"
+        ]
+    },
+    {
+        "title": "Asif Qureshi",
+        "content": [
+            "Head (CC) & Professor",
+            "Ph.D: Swiss Federal Institute of Technology (ETH), Zurich",
+            "Environmental Science",
+            "Public Health",
+            "Climate Change"
+        ]
+    },
+    {
+        "title": "Atanu Rajak",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: SINP Kolkata",
+            "Study of Topological Systems"
+        ]
+    },
+    {
+        "title": "Atul Suresh Deshpande",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Max Planck Institute of Colloids & Interfaces",
+            "Energy storage materials (batteries and supercapacitors)",
+            "High entropy oxides",
+            "Superhydrophobic materials"
+        ]
+    },
+    {
+        "title": "Avinash Eranki",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Utrecht University",
+            "Medical Ultrasound Techniques & Devices",
+            "Diagnosis & Therapy of Cancer",
+            "Preclinical & Clinical Trials"
+        ]
+    },
+    {
+        "title": "Badri Narayan Rath",
+        "content": [
+            "Professor",
+            "Ph.D: Institute for Social and Economic Change, Bengaluru",
+            "Economic Growth",
+            "Industrial Economics",
+            "International Economics"
+        ]
+    },
+    {
+        "title": "Balaji Iyer Vaidyanathan Shantha",
+        "content": [
+            "Head (CH) & Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Biomimetics",
+            "Polymer Brushes",
+            "Structure-Property Relations"
+        ]
+    },
+    {
+        "title": "Balasubramaniam Jayaram",
+        "content": [
+            "Professor",
+            "Ph.D: Sri Sathya Sai Institute of Higher Learning",
+            "Approximate reasoning",
+            "Connectives in multi-valued logic",
+            "AI/ML"
+        ]
+    },
+    {
+        "title": "Basant Kumar Patel",
+        "content": [
+            "Professor",
+            "Ph.D: Banaras Hindu University, Varanasi (Institute of Medical Sciences)",
+            "Protein misfolding in neurodegenerative diseases",
+            "Disease/Toxicity Mechanisms",
+            "Drug Discovery/Drug Target Validation and Preclinical Testing/Molecular Virology"
+        ]
+    },
+    {
+        "title": "Bhabani Shankar Mallik",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kanpur",
+            "Computational Chemistry",
+            "Molecular Dynamics",
+            "Statistical Mechanics"
+        ]
+    },
+    {
+        "title": "Bhakti Bhusan Manna",
+        "content": [
+            "Associate Professor",
+            "Ph.D: TIFR-CAM, Bengaluru",
+            "Partial Differential Equations",
+            "Pure Mathematics",
+            "Applied Mathematics"
+        ]
+    },
+    {
+        "title": "Bharat Bhooshan Panigrahi",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kharagpur",
+            "Powder Metallurgy",
+            "Sintering",
+            "Nanocrystalline Materials"
+        ]
+    },
+    {
+        "title": "Bheemarjuna Reddy Tamma",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Converged Cloud Radio Access Networks",
+            "5G",
+            "SDN/NFV"
+        ]
+    },
+    {
+        "title": "Bhuvanesh Ramakrishna",
+        "content": [
+            "Head (ES) & Associate Professor",
+            "Ph.D: The Queens University of Belfast",
+            "Laser plasma Interaction",
+            "Optics/Photonics/Spectroscopy"
+        ]
+    },
+    {
+        "title": "Biswarup Bhattacharyya",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Université Claude Bernard Lyon 1, France",
+            "Uncertainty Quantification",
+            "Reliability Analysis",
+            "Global Sensitivity Analysis"
+        ]
+    },
+    {
+        "title": "C Malla Reddy",
+        "content": [
+            "Professor",
+            "Ph.D: School of Chemistry, University of Hyderabad",
+            "Crystal Engineering",
+            "Solid-state Pharmaceutical chemistry",
+            "Mechanically Flexible and Self-healing Organic Functional Crystals"
+        ]
+    },
+    {
+        "title": "C. Krishna Mohan",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Video Content Analysis",
+            "Machine Learning",
+            "Sparsity Based Methods"
+        ]
+    },
+    {
+        "title": "Chandan Bose",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Canterbury",
+            "Ethnography",
+            "Historiography",
+            "Visual anthropology"
+        ]
+    },
+    {
+        "title": "Chandra Prakash",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Purdue University",
+            "Materials Under Extreme Environment",
+            "Nano/Micro-scale Experimental Mechanics",
+            "Shock, Spallation, Fracture, Damage"
+        ]
+    },
+    {
+        "title": "Chandra Shekhar Sharma",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kanpur",
+            "Polymer and Carbon Nanomaterials",
+            "Carbon-MEMS",
+            "Electrospun Nanofibers"
+        ]
+    },
+    {
+        "title": "Chandrasekhar Murapaka",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Nanyang Technological University, Singapore",
+            "Nanomagnetic Materials",
+            "Spintronic based memory and logic devices",
+            "Sensors"
+        ]
+    },
+    {
+        "title": "Chandrika Prakash Vyasarayani",
+        "content": [
+            "Professor",
+            "Ph.D: University of Waterloo",
+            "Nonlinear Dynamics and Control",
+            "AI/ML",
+            "Applied Mathematics"
+        ]
+    },
+    {
+        "title": "Debaprasad Shee",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Kanpur",
+            "Catalysis over supported metals and metal oxides",
+            "Structure property correlations",
+            "Fuels and chemicals from renewable sources"
+        ]
+    },
+    {
+        "title": "Debasish Koner",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Guwahati",
+            "Machine Learning in Chemistry",
+            "Machine Learning in Chemical Physics and Medical Diagnosis",
+            "Chemical Reaction Dynamics"
+        ]
+    },
+    {
+        "title": "Debraj Bhattacharyya",
+        "content": [
+            "Professor",
+            "Ph.D: University of New Brunswick",
+            "Water & Wastewater Treatment",
+            "Solid Waste Management",
+            "Renewable Energy (Biofuel)"
+        ]
+    },
+    {
+        "title": "Deepa M.",
+        "content": [
+            "Professor",
+            "Ph.D: University of Delhi",
+            "Applied Electrochemistry",
+            "Energy",
+            "Nanoscience & Technology"
+        ]
+    },
+    {
+        "title": "Deepak John Mathew",
+        "content": [
+            "Professor",
+            "Ph.D: Center for Advanced Studies in Education, M S University of Baroda",
+            "Photography",
+            "Elements of design",
+            "Aesthetics"
+        ]
+    },
+    {
+        "title": "Deepak Kumar Pradhan",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Pure Mathematics"
+        ]
+    },
+    {
+        "title": "Deepu J Babu",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Technische Universität Darmstadt, Germany",
+            "Nanoporous Materials",
+            "Adsorption",
+            "Membranes"
+        ]
+    },
+    {
+        "title": "Delwyn Jude Remedios",
+        "content": [
+            "Assistant Professor",
+            "Animation",
+            "Graphic Novels",
+            "e Learning"
+        ]
+    },
+    {
+        "title": "Devarai Santhosh Kumar",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Madras",
+            "Biochemical and bioprocess development of therapeutic enzymes",
+            "Industrial Fermentation Engineering",
+            "Production of Industrial Medicinal and Nutritive Enzymes"
+        ]
+    },
+    {
+        "title": "Dhriti Sundar Patra",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Jadavpur University",
+            "Differential Geometry",
+            "Riemannian Geometry"
+        ]
+    },
+    {
+        "title": "Digvijay S. Pawar",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Driver and pedestrian behavioral modeling",
+            "Traffic safety and accident analysis",
+            "Traffic operation and simulation"
+        ]
+    },
+    {
+        "title": "Dinabandhu Sethi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Hyderabad, Hyderabad",
+            "Monetary Economics",
+            "Public Economics",
+            "State Finances and Time Series Analysis"
+        ]
+    },
+    {
+        "title": "Divya Sachdeva",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Delhi",
+            "Beyond the Standard Model"
+        ]
+    },
+    {
+        "title": "Faiz Ahmed Khan",
+        "content": [
+            "Professor",
+            "Ph.D: University of Hyderabad, Hyderabad",
+            "Transition Metal-mediated reactions in organic synthesis",
+            "Discovery of New Methodologies",
+            "Control of Stereochemistry in organic"
+        ]
+    },
+    {
+        "title": "Falguni Pati",
+        "content": [
+            "Head (Biomed) & Associate Professor",
+            "Ph.D: IIT Kharagpur",
+            "Biomaterials",
+            "Tissue Engineering",
+            "3D Bioprinting"
+        ]
+    },
+    {
+        "title": "G Thulsiram",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Nondestructive Evaluation",
+            "Materials Characterization",
+            "Wave Propagation"
+        ]
+    },
+    {
+        "title": "G V V Sharma",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Wireless Communications",
+            "Physical layer modulation",
+            "Synchronization techniques"
+        ]
+    },
+    {
+        "title": "G. Narahari Sastry",
+        "content": [
+            "Professor",
+            "Ph.D: University of Hyderabad, Hyderabad",
+            "Computational Chemistry",
+            "Computational Biology",
+            "Drug Discovery"
+        ]
+    },
+    {
+        "title": "Gajendranath Chaudhury CH.",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Delhi",
+            "Analog and Mixed Signal Circuit Design",
+            "Energy",
+            "Nanoscience & Technology"
+        ]
+    },
+    {
+        "title": "Gande Vamsi Vikram",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "e-Waste Recycling"
+        ]
+    },
+    {
+        "title": "Ganesh Ghalme",
+        "content": [
+            "Head (AI) & Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Game Theory"
+        ]
+    },
+    {
+        "title": "Ganesh M. P.",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Cross-cultural virtual teams",
+            "Workplace bullying",
+            "Cross-cultural collaborations"
+        ]
+    },
+    {
+        "title": "Gangadharan Raju",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Composite Structures",
+            "Buckling and Post-buckling analysis",
+            "Variable angle tow composite plates"
+        ]
+    },
+    {
+        "title": "Gaurav Sharma",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: CSIR-Institute of Microbial Technology (CSIR-IMTECH), Chandigarh, India",
+            "Microbial Genomics",
+            "Microbial Evolution",
+            "Medicinal Plant genomics"
+        ]
+    },
+    {
+        "title": "Gaurav Dhamija",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Shiv Nadar University",
+            "Health Economics",
+            "Gender Economics",
+            "Applied Microeconomics"
+        ]
+    },
+    {
+        "title": "Giridhar Madras",
+        "content": [
+            "Professor",
+            "Ph.D: Texas A&M University",
+            "Development of Novel Materials for Energy",
+            "Environmental Applications",
+            "Catalysis"
+        ]
+    },
+    {
+        "title": "Gnanaprakash K",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Solid Fuels and Metal Combustion",
+            "Thermal sciences",
+            "Oscillatory combustion"
+        ]
+    },
+    {
+        "title": "Gunjan Mehta",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Bombay",
+            "Transcription Regulation",
+            "Single-Molecule Imaging",
+            "Cell Division and Chromosome Dynamics"
+        ]
+    },
+    {
+        "title": "Harikrishnan Narayanan Unni",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Nanyang Technological University, Singapore",
+            "Lab on Chip Microfluidics and Nanofluidics",
+            "Biophysics",
+            "Biomechanic"
+        ]
+    },
+    {
+        "title": "Haripriya Narasimhan",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Syracuse University, New York",
+            "Media",
+            "Gender",
+            "Health"
+        ]
+    },
+    {
+        "title": "Harish Nagaraj Dixit",
+        "content": [
+            "Associate Professor",
+            "Ph.D: JNCASR, Bengaluru",
+            "Interfacial flows - moving contact lines, drop, bubbles and thin films",
+            "Hydrodynamic stability theory",
+            "Fluid Dynamics"
+        ]
+    },
+    {
+        "title": "Hemam Rachna Devi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Green Hydrogen",
+            "Photocatalysis",
+            "Photoelectrocatalysis"
+        ]
+    },
+    {
+        "title": "Himabindu Allaka",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Haifa",
+            "Multi-domain unmanned systems",
+            "Marine hydrodynamics",
+            "Subsea robotics"
+        ]
+    },
+    {
+        "title": "Himanshu Joshi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Assembly and Dynamics of membrane-DNA systems",
+            "Biomimetic Materials",
+            "Nanopore sequencing"
+        ]
+    },
+    {
+        "title": "Indira Jalli",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Hyderabad",
+            "Nation",
+            "Culture",
+            "Humanities"
+        ]
+    },
+    {
+        "title": "Indranil Malik",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Texas A&M University, College Station, TX",
+            "RNA Biology",
+            "Neurodegenerative Diseases"
+        ]
+    },
+    {
+        "title": "J. Saketha Nath",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Machine Learning",
+            "AI/ML"
+        ]
+    },
+    {
+        "title": "Jai Prakash",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Delhi",
+            "Inorganic Chemistry",
+            "Crystallography",
+            "Metal Chalcogenides"
+        ]
+    },
+    {
+        "title": "Jaladhar Neelavalli",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Wayne State University, Michigan",
+            "Developing novel Magnetic Resonance Imaging (MRI) methods for pre-clinical, clinical and/or medical applications"
+        ]
+    },
+    {
+        "title": "Janaki Ram G. D",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Welding and Materials Joining",
+            "Additive Manufacturing",
+            "Metallurgical failure analysis"
+        ]
+    },
+    {
+        "title": "Jayshree Patnaik",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Appropriate Technology",
+            "Frugal Innovation",
+            "Design Thinking"
+        ]
+    },
+    {
+        "title": "Jose Titus",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Electric Machine Design",
+            "Medium Voltage Drives",
+            "Sensorless Control Techniques for Motor drives"
+        ]
+    },
+    {
+        "title": "Jyothi Vedurada",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Program Analysis",
+            "Program Understanding",
+            "Automated Concurrency Testing"
+        ]
+    },
+    {
+        "title": "Jyoti Ranjan Mohanty",
+        "content": [
+            "Professor",
+            "Ph.D: Paul Drude Institute / Humboldt University",
+            "Nanomagnetism",
+            "Magnetic Microscopy",
+            "Ultrafast Magnetism"
+        ]
+    },
+    {
+        "title": "Jyotirmoy Rana",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Bio-Fluid Mechanics",
+            "Solute dispersion",
+            "Quantum Mechanics"
+        ]
+    },
+    {
+        "title": "Jyotsnendu Giri",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Bombay",
+            "Nanomedicine",
+            "Regenerative medicine",
+            "Drug delivery"
+        ]
+    },
+    {
+        "title": "K Siva Kumar",
+        "content": [
+            "Head (EE) & Professor",
+            "Ph.D: IISc, Bengaluru",
+            "PPM Induction motor drives",
+            "Multi-level Inverters",
+            "Micro-grids"
+        ]
+    },
+    {
+        "title": "Kanchana V",
+        "content": [
+            "Professor",
+            "Ph.D: Anna University",
+            "Condensed Matter Theory (Thermoelectric Properties)",
+            "Fermi Surface Topology",
+            "Optical Properties"
+        ]
+    },
+    {
+        "title": "Kapil Jainwal",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Delhi",
+            "Analog/Digital IC Design",
+            "CMOS Image Sensors",
+            "SoC cameras"
+        ]
+    },
+    {
+        "title": "Karri Badarinath",
+        "content": [
+            "Associate Professor",
+            "Ph.D: National University of Singapore",
+            "Experimental fluid mechanics",
+            "High-speed imaging",
+            "Cavitation"
+        ]
+    },
+    {
+        "title": "Karthik P. N.",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Probability Theory",
+            "Detection and Estimation Theory",
+            "Markov Decision Processes"
+        ]
+    },
+    {
+        "title": "Kaushik Nayak",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Electron Devices Physics",
+            "Mesoscopic Electronics",
+            "Earth System Science"
+        ]
+    },
+    {
+        "title": "Ketan P. Detroja",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Control Theory",
+            "State Estimation",
+            "Fault Diagnosis"
+        ]
+    },
+    {
+        "title": "Kiran Kumar Kuchi",
+        "content": [
+            "Professor",
+            "Ph.D: The University of Texas",
+            "Wireless communications",
+            "Signal processing",
+            "5G testbed development"
+        ]
+    },
+    {
+        "title": "Kirit Makwana",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Wisconsin-Madison, WI, USA",
+            "Asic plasma physics",
+            "Space plasmas",
+            "Plasma astrophysics"
+        ]
+    },
+    {
+        "title": "Kirti Chandra Sahu",
+        "content": [
+            "Professor",
+            "Ph.D: Jawaharlal Nehru Centre for Advanced Scientific Research, Bengaluru",
+            "Bubbles and drops",
+            "Multiphase flows",
+            "Flow instability"
+        ]
+    },
+    {
+        "title": "Kishalay Mitra",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Bombay",
+            "Optimal control under uncertainity",
+            "Bioenergy supply chain design",
+            "Surrogate multi-objective optimization"
+        ]
+    },
+    {
+        "title": "Kishore Natte",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Technical University of Berlin, Germany",
+            "Drug Discovery",
+            "Catalysis",
+            "Climate Change"
+        ]
+    },
+    {
+        "title": "Konda Reddy Mopuri",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Artificial Intelligence",
+            "Machine learning (specifically Deep Learning)",
+            "Data Science and Engineering"
+        ]
+    },
+    {
+        "title": "Kotaro Kataoka",
+        "content": [
+            "Professor",
+            "Ph.D: Media and Governance, Keio University",
+            "Internet over Broadcast Media",
+            "Ipv6 Multicast",
+            "Post-Disaster Networking"
+        ]
+    },
+    {
+        "title": "Kousik Sarathy Sridharan",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Aarhus University, Denmark",
+            "Interventions for neurological and psychiatric disorders",
+            "Invasive and non-invasive neuromodulation",
+            "Neuroimaging of the healthy and diseased brain"
+        ]
+    },
+    {
+        "title": "Koyel Banerjee Ghosh",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: CSIR-Central Glass & Ceramic Research Institute, West Bengal",
+            "Molecular Electronics",
+            "Surface Chemistry",
+            "Electrochemistry"
+        ]
+    },
+    {
+        "title": "Krishna Gavvala",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISER Pune",
+            "Physical Chemsitry",
+            "Biophysics/Medical Physics",
+            "Optics/Photonics/Spectroscopy"
+        ]
+    },
+    {
+        "title": "Lakshmana Dora Chandrala",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Experimental fluid dynamics",
+            "Development of optical-based flow diagnostic techniques",
+            "Oil spills"
+        ]
+    },
+    {
+        "title": "Lakshmi Narayana P A",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kharagpur",
+            "Fluid mechanics",
+            "Convection in porous media",
+            "Linear and non-linear stability analysis"
+        ]
+    },
+    {
+        "title": "Lakshmi Prasad Natarajan",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Coding for distributed computation and storage",
+            "Index coding with side information",
+            "Network coding for wireless systems"
+        ]
+    },
+    {
+        "title": "Lohithaksha Maniraj Maiyar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "AI/ML",
+            "Climate Change",
+            "Waste Management"
+        ]
+    },
+    {
+        "title": "Lopamudra Giri",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Iowa, Iowa, IA",
+            "Bioimaging",
+            "Systems Biology",
+            "Confocal microscopy"
+        ]
+    },
+    {
+        "title": "M.V. Panduranga Rao",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Theoretical Computer Science",
+            "Cyber Security"
+        ]
+    },
+    {
+        "title": "Mahati Chittem",
+        "content": [
+            "Professor",
+            "Ph.D: University of Sheffield",
+            "Chronic disease management",
+            "Health behaviours",
+            "Biomedical Materials"
+        ]
+    },
+    {
+        "title": "Mahendrakumar Madhavan",
+        "content": [
+            "Professor",
+            "Ph.D: The University of Alabama at Birmingham",
+            "Affordable Housing",
+            "Sustainable materials",
+            "Cold-formed Steel"
+        ]
+    },
+    {
+        "title": "Mahesh Ganesan",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Michigan, Ann Arbor",
+            "Structure and rheology of soft matter",
+            "Colloidal assemblies",
+            "Polymer complex fluids"
+        ]
+    },
+    {
+        "title": "Mahesh M S",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Illinois, Urbana-Champaign",
+            "Vibroacoustics",
+            "Aeroelasticity",
+            "Computational Mechanics"
+        ]
+    },
+    {
+        "title": "Mahesh Peddigari",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Guwahati",
+            "Relaxor Ferroelectrics",
+            "Magnetoelectrics",
+            "Energy Harvesting"
+        ]
+    },
+    {
+        "title": "Maheswaran R.",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Delhi",
+            "Stochastic Hydrology",
+            "Hydrologic Forecasting",
+            "Multiscale Processes and modelling"
+        ]
+    },
+    {
+        "title": "Manish Singh",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Michigan, Ann Arbor",
+            "Databases",
+            "Data Mining",
+            "HCI"
+        ]
+    },
+    {
+        "title": "Manish K. Niranjan",
+        "content": [
+            "Head (PHY) & Professor",
+            "Ph.D: The University of Texas",
+            "Theoretical condensed matter Physics",
+            "Electronic Structure",
+            "Surface and interface Physics"
+        ]
+    },
+    {
+        "title": "Manisha Thakurathi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Superconductivity",
+            "Topological phases of matter and quantum phase transition"
+        ]
+    },
+    {
+        "title": "Maria Francis",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Computational Algebra",
+            "Symbolic Computation",
+            "Lattice Cryptography"
+        ]
+    },
+    {
+        "title": "Maunendra Sankar Desarkar",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Kharagpur",
+            "Recommender Systems",
+            "Information Retrieval",
+            "Machine Learning"
+        ]
+    },
+    {
+        "title": "Mayukh Pahari",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Pt. Ravishankar Sukla University, Raipur",
+            "Black Hole Astrophysics",
+            "UV/optical/X-ray Astronomy",
+            "Active Galactic Nuclei"
+        ]
+    },
+    {
+        "title": "Mayur Vaidya",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Diffusion-deformation correlation in materials",
+            "Diffusion in multicomponent alloys",
+            "Nanoscience & Technology"
+        ]
+    },
+    {
+        "title": "Meenakshi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Delhi",
+            "Concrete Mechanics",
+            "Sustainable Cementitious Binders",
+            "Durability and Repair of Concrete Structures"
+        ]
+    },
+    {
+        "title": "Mohan Raghavan",
+        "content": [
+            "Head (HST) & Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Computational Neuroscience",
+            "Motor system",
+            "Spinal cord"
+        ]
+    },
+    {
+        "title": "Mrinmoy Datta",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Bombay",
+            "Algebraic Geometry",
+            "Pure Mathematics"
+        ]
+    },
+    {
+        "title": "Mudrika Khandelwal",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Lucy Cavendish College, University of Cambridge`",
+            "Cellulose composites",
+            "Drug delivery",
+            "In situ modifications"
+        ]
+    },
+    {
+        "title": "Munwar B. Basha",
+        "content": [
+            "Head (CE) & Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Unsaturated soil mechanics",
+            "Reliability Based Design",
+            "Geotechnical & Geoenvironmental Engineering"
+        ]
+    },
+    {
+        "title": "Murty B. S.",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Nanocrystalline materials",
+            "High entropy alloys",
+            "Bulk metallic glasses"
+        ]
+    },
+    {
+        "title": "Muvvala Gopinath",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Additive Manufacturing",
+            "Laser Material Processing",
+            "Under Water laser material processing"
+        ]
+    },
+    {
+        "title": "Myna Vajha",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru"
+        ]
+    },
+    {
+        "title": "N. Venkata Reddy",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kanpur",
+            "Predictive modeling for Digital Fabrication (including Additive Manufacturing)",
+            "Analysis (Numerical as well as Experimental) of Manufacturing processes",
+            "Design and Development of Rapid response and Resource Saving Manufacturing Processes"
+        ]
+    },
+    {
+        "title": "Nagarajan Ganapathy",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Artificial Intelligence, Deep Learning",
+            "Affective Computing",
+            "Computer vision"
+        ]
+    },
+    {
+        "title": "Nakul Parameswar",
+        "content": [
+            "Head (EM) & Assistant Professor",
+            "Ph.D: IIT Delhi",
+            "Dynamics in strategic alliances",
+            "Competitive strategy",
+            "Start-up management"
+        ]
+    },
+    {
+        "title": "Nandini Ramesh Sankar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Cornell University",
+            "20th-century and contemporary poetry",
+            "Visual arts",
+            "Theories of the gift"
+        ]
+    },
+    {
+        "title": "Narasimha Mangadoddy",
+        "content": [
+            "Professor",
+            "Ph.D: JKMRC University of Queensland",
+            "Mineral Processing",
+            "CFD",
+            "Multiphase Flows"
+        ]
+    },
+    {
+        "title": "Narendra Kurra",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: JNCASR, Bengaluru",
+            "Materials (electro)chemistry",
+            "Two-dimensional materials",
+            "Energy Storage"
+        ]
+    },
+    {
+        "title": "Narendra Sahu",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Bombay",
+            "Physics (Elementary Particle)",
+            "High Energy Physics"
+        ]
+    },
+    {
+        "title": "Naresh Kumar Emani",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Purdue University , West Lafayette Campus",
+            "Nanophotonics",
+            "Photovoltaics",
+            "Optoelectronic devices"
+        ]
+    },
+    {
+        "title": "Neelakantan P K",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Bombay",
+            "Architectural Design",
+            "Early stage design process",
+            "Aesthetics"
+        ]
+    },
+    {
+        "title": "Neeraj Kumar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Gandhinagar",
+            "Sensorimotor Learning",
+            "Motor Memory",
+            "Non-invasive Brain Stimulation"
+        ]
+    },
+    {
+        "title": "Neeraj Kumar",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Genova",
+            "Commutative Algebra"
+        ]
+    },
+    {
+        "title": "Neetu Tiwari",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Hokkaido University, Japan",
+            "Data Driven Methods for Fluid Flows",
+            "Real Flow Simulations and Experimental Fluid Mechanics"
+        ]
+    },
+    {
+        "title": "Niranjan Shrinivas Ghaisas",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Purdue University",
+            "Subgrid-scale modeling for buoyancy-driven flows",
+            "Mechanical Engineering",
+            "Fluid Dynamics"
+        ]
+    },
+    {
+        "title": "Nishanth Dongari",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Strathclyde, Glasgow, UK",
+            "Microfluidics",
+            "Rarefied Gas Dynamics",
+            "Compressible Gas Flows"
+        ]
+    },
+    {
+        "title": "Nithyanandan Kanagaraj",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Pondicherry Central University, Puducherry",
+            "Sensors",
+            "Semiconducting Devices",
+            "Additive Manufacturing"
+        ]
+    },
+    {
+        "title": "Nitin Saurabh",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IMSc Chennai",
+            "Theoretical Computer Science",
+            "Especially in Complexity Theory",
+            "Analysis of Boolean Functions"
+        ]
+    },
+    {
+        "title": "Oves Badami",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Universita Degli Studi di Udine, Udine, Italy",
+            "Semiconductors physics",
+            "Computational nanoelectronics",
+            "TCAD tool development"
+        ]
+    },
+    {
+        "title": "Pankaj Sharadchandra Kolhe",
+        "content": [
+            "Professor",
+            "Ph.D: The University of Alabama, Tuscaloosa",
+            "IC Engines",
+            "Gas Turbine Engines",
+            "Alternative Fuels"
+        ]
+    },
+    {
+        "title": "Parag D. Pawar",
+        "content": [
+            "Associate Professor",
+            "Ph.D: The Johns Hopkins University, Baltimore, Maryland",
+            "Bacterial infections",
+            "Biofilms",
+            "Cellular automata"
+        ]
+    },
+    {
+        "title": "Pechetti Sasi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Delhi",
+            "Wireless Communications",
+            "MIMO Signal Processing",
+            "Joint Radar and Communications"
+        ]
+    },
+    {
+        "title": "Phanindra Varma Jampana",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Alberta, Edmonton",
+            "Compressed Sensing",
+            "Electrical Resistance Tomography",
+            "Control and Identification"
+        ]
+    },
+    {
+        "title": "Phanindra K.B.V.N.",
+        "content": [
+            "Associate Professor",
+            "Ph.D: New Mexico State University, Las Cruces",
+            "Groundwater modeling",
+            "Soil-water-plant interactions",
+            "Remote sensing & GIS"
+        ]
+    },
+    {
+        "title": "Pinaki Prasad Bhattacharjee",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kanpur",
+            "High entropy alloys",
+            "Thermo-mechanical processing",
+            "Crystallographic texture"
+        ]
+    },
+    {
+        "title": "Prabhat Kumar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Topology Optimization",
+            "Structural Optimization",
+            "Compliant Mechanisms"
+        ]
+    },
+    {
+        "title": "Prabheesh K.P.",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Macroeconomics",
+            "International Finance",
+            "Applied Econometrics"
+        ]
+    },
+    {
+        "title": "Prabusankar G.",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Bombay",
+            "Organometallic Synthesis",
+            "Late Transition Metal Chemistry",
+            "Heavier Main Group P-Block Chemistry"
+        ]
+    },
+    {
+        "title": "Pradeep Kumar Yemula",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Smart Grids",
+            "Power System Control Centers",
+            "Information Technology Architectures"
+        ]
+    },
+    {
+        "title": "Pradipto Banerjee",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of South Carolina",
+            "Number Theory",
+            "Pure Mathematics"
+        ]
+    },
+    {
+        "title": "Prakash Chandra Mondal",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Delhi",
+            "Theoretical linguistics",
+            "Language and computation",
+            "Language and biology"
+        ]
+    },
+    {
+        "title": "Prakhar Gupta",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Delhi",
+            "Multiscale Modeling",
+            "Electromechanics",
+            "Biomechanics"
+        ]
+    },
+    {
+        "title": "Prasad S Onkar",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Product Design",
+            "Computer Aided Conceptual Design",
+            "3D Sketching"
+        ]
+    },
+    {
+        "title": "Prasanth Kumar R.",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kharagpur",
+            "Multibody dynamics",
+            "Robotics",
+            "Control systems"
+        ]
+    },
+    {
+        "title": "Praveen Tammana",
+        "content": [
+            "Assistant professor",
+            "Ph.D: The University of Edinburgh, UK",
+            "Systems and Networking",
+            "Network Security",
+            "Software-Defined Networking"
+        ]
+    },
+    {
+        "title": "Prem Pal",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Delhi",
+            "MEMS Technology",
+            "Silicon Micromachining",
+            "MEMS-based sensors"
+        ]
+    },
+    {
+        "title": "Pritha Chatterjee",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Waste Treatment",
+            "Resource recovery from waste",
+            "Bioenergy"
+        ]
+    },
+    {
+        "title": "Priyadarshi Chakraborty",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Indian Association for the Cultivation of Science, Kolkata",
+            "Conductive Polymers",
+            "Tissue Engineering",
+            "Peptide Self-assembly"
+        ]
+    },
+    {
+        "title": "Priyotosh Bandyopadhyay",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Harish Chandra Research Institute, Allahabad (Homi Bhabha National Institute)",
+            "LHC",
+            "Higgs Physics",
+            "Supersymmetry"
+        ]
+    },
+    {
+        "title": "Raghavendra Nidhanapati K",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "HIV-1 biology",
+            "Drug Discovery/Drug Target Validation and Preclinical Testing/Molecular Virology"
+        ]
+    },
+    {
+        "title": "Raghavendra Srikanth Hundi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Harish-Chandra Research Institute",
+            "Physics beyond standard model",
+            "Neutrino masses",
+            "High Energy Physics"
+        ]
+    },
+    {
+        "title": "Rahul Kumar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: CSIR Institute of Microbial Technology, Chandigarh",
+            "Bioinformatics",
+            "Cancer Genomics",
+            "Computational Biology"
+        ]
+    },
+    {
+        "title": "Raja Banerjee",
+        "content": [
+            "Professor",
+            "Ph.D: University of Missouri Rolla",
+            "Multiphase Flow",
+            "Heat and Mass Transfer",
+            "Thermodynamics"
+        ]
+    },
+    {
+        "title": "Rajakumara Eerappa",
+        "content": [
+            "Head (BT) & Professor",
+            "Ph.D: CCMB, Hyderabad (JNU)",
+            "Structural Biology",
+            "X-ray Crystallography",
+            "Epigenetic and DNA repair"
+        ]
+    },
+    {
+        "title": "Rajalakshmi P.",
+        "content": [
+            "Professor",
+            "Ph.D: IITM",
+            "Internet of Intelligent Things",
+            "Artificial Intelligence",
+            "Computer Aided Diagnosis"
+        ]
+    },
+    {
+        "title": "Rajesh Kedia",
+        "content": [
+            "Assistant professor",
+            "Ph.D: IIT Delhi",
+            "Computer Architecture",
+            "Embedded Systems",
+            "VLSI Design Automation"
+        ]
+    },
+    {
+        "title": "Rajesh Kannan",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Combinatorics",
+            "Spectral Graph Theory",
+            "Matrix Theory"
+        ]
+    },
+    {
+        "title": "Rajesh Korla",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Deformation behavior of materials at room temperature and high temperature",
+            "Additive Manufacturing",
+            "Materials Processing"
+        ]
+    },
+    {
+        "title": "Rajesh Ittamalla",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Hyderabad",
+            "Health & Society",
+            "Social Sciences",
+            "Entrepreneurship and Management"
+        ]
+    },
+    {
+        "title": "Rakesh Venkat",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: TIFR Mumbai",
+            "Theoretical Computer Science"
+        ]
+    },
+    {
+        "title": "Ramakrishna Upadrasta",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Paris-Sud (11)/INRIA, Paris",
+            "Domain Specific Programming Languages for Parallelization",
+            "LLVM Optimizations",
+            "Improvement of Scalability of Tools in Polyhedral Compilation"
+        ]
+    },
+    {
+        "title": "Ramesh G",
+        "content": [
+            "Head (MA) & Professor",
+            "Ph.D: IIT Madras",
+            "Functional analysis",
+            "Operator theory",
+            "Pure Mathematics"
+        ]
+    },
+    {
+        "title": "Rameshwar Pratap",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Chennai Mathematical Institute",
+            "Algorithms in Machine Learning",
+            "Theoretical Computer Science"
+        ]
+    },
+    {
+        "title": "Ramji M",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Composite Structures and Repair",
+            "Fundamental Fracture Mechanics",
+            "Material Characterisation"
+        ]
+    },
+    {
+        "title": "Ramkarn Patne",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Hydrodynamic Stability",
+            "Biofluid Mechanics",
+            "Pattern Formation"
+        ]
+    },
+    {
+        "title": "Ramya Sri Mullapudi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Pavement Materials",
+            "Analysis and Design of Pavements",
+            "Evaluation and Rehabilitation of Pavements"
+        ]
+    },
+    {
+        "title": "RanaPratap Maradana",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Venture Capital Investments",
+            "Energy Finance",
+            "Financial Markets"
+        ]
+    },
+    {
+        "title": "Ranabir Dey",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Active soft matter",
+            "Capillarity and wetting",
+            "Low Reynolds number hydrodynamics"
+        ]
+    },
+    {
+        "title": "Ranajit Mondal",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras",
+            "Colloidal and Interfacial Science",
+            "Droplet Drying",
+            "Desiccation Cracks"
+        ]
+    },
+    {
+        "title": "Ranjith Ramadurai",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Multifunctional thin films",
+            "Piezoresponse force microscopy",
+            "Hybrid piezoelectrics"
+        ]
+    },
+    {
+        "title": "Rashmi Singh",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Ambedkar University Delhi",
+            "Environmental justice",
+            "Complex human-wildlife relationships",
+            "Global climate change and adaptations"
+        ]
+    },
+    {
+        "title": "Rathinavelan Thenmalarchelvi",
+        "content": [
+            "Professor",
+            "Ph.D: University of Madras",
+            "Bacterial Glycobiology",
+            "Transition State Structures of Proteins",
+            "DNA-protein Interaction"
+        ]
+    },
+    {
+        "title": "Ravikumar Bhimasingu",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Computer-aided power system analysis and modeling",
+            "Integration of Renewable Energy Sources",
+            "AI techniques applications for power systems security improvement"
+        ]
+    },
+    {
+        "title": "Rekha Raja",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Robotics",
+            "Agricultural Robotics",
+            "Robot Learning"
+        ]
+    },
+    {
+        "title": "Renu John",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Delhi",
+            "Biomedical imaging",
+            "Optical coherence imaging and microscopy",
+            "Nanoparticles and target-specific imaging"
+        ]
+    },
+    {
+        "title": "Rogers Mathew",
+        "content": [
+            "Associate professor",
+            "Ph.D: IISc, Bengaluru",
+            "Graph theory",
+            "Combinatorics",
+            "Graph algorithms"
+        ]
+    },
+    {
+        "title": "Roshan Khan .M",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Bombay",
+            "Virtual Reality and Augmented Reality",
+            "Transportation",
+            "Geoenvironmental Engineering"
+        ]
+    },
+    {
+        "title": "Rupesh Ganpatrao Wandhare",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Power Electronics",
+            "Electric Drives",
+            "Renewable Energy Sources"
+        ]
+    },
+    {
+        "title": "S K Karthick",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Experimental Gas Dynamics",
+            "Jet Aeroacoustics",
+            "Hypersonic Aerothermodynamics"
+        ]
+    },
+    {
+        "title": "Sachidananda Behera",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Turbulence",
+            "Fluid Dynamics"
+        ]
+    },
+    {
+        "title": "Safvan Palathingal",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Nonlinear mechanics of slender structures",
+            "Compliant mechanisms",
+            "Optimization"
+        ]
+    },
+    {
+        "title": "Sai Sidhardh",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Micromechanics of Materials",
+            "Elastodynamics",
+            "Composite Mechanics"
+        ]
+    },
+    {
+        "title": "Sai Rama Krishna Malladi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Delft University of Technology",
+            "In situ Transmission Electron Microscopy",
+            "Phase transformations in materials",
+            "Electrochemsitry and Corrosion"
+        ]
+    },
+    {
+        "title": "Sai Santosh Kumar Raavi",
+        "content": [
+            "Professor",
+            "Ph.D: University of Hyderabad",
+            "Optics and Spectroscopy of Energy Conversion Materials",
+            "Sensors",
+            "Semiconducting Devices"
+        ]
+    },
+    {
+        "title": "Saket Asthana",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Bombay",
+            "Ferroelectrics",
+            "Energy storage",
+            "Piezoelectrics"
+        ]
+    },
+    {
+        "title": "Sameen Naqvi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Reliability theory",
+            "Stochastic orders",
+            "Applied Statistics"
+        ]
+    },
+    {
+        "title": "Sandipan Ray",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Bombay",
+            "Circadian clocks and sleep",
+            "Infectious diseases",
+            "Mechanism of drug action"
+        ]
+    },
+    {
+        "title": "Saptarshi Majumdar",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kharagpur",
+            "Multiscale Modelling",
+            "Bio-materials Design",
+            "Industrial Process Analysis"
+        ]
+    },
+    {
+        "title": "Saranya Ghosh",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Tata Institute of Fundamental Research",
+            "Experimental High Energy Physics",
+            "Sensors",
+            "AI/ML"
+        ]
+    },
+    {
+        "title": "Saravanan B",
+        "content": [
+            "Professor",
+            "Ph.D: I'Institut National des Sciences Appliquees de Rouen, France",
+            "Combustion",
+            "Laser diagnostics",
+            "Fluid Mechanics"
+        ]
+    },
+    {
+        "title": "Saswata Bhattacharya",
+        "content": [
+            "Head (MS) & Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Phase-field modeling of microstructural evolution in alloys and oxides",
+            "Phase transformations",
+            "Micromechanical modeling"
+        ]
+    },
+    {
+        "title": "Sathya Peri",
+        "content": [
+            "Professor",
+            "Ph.D: University of Texas at Dallas",
+            "Parallel Computing",
+            "Distributed Systems",
+            "Algorithm analysis"
+        ]
+    },
+    {
+        "title": "Satish Kumar Regonda",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Colorado at Boulder",
+            "Urban and Rural Flood Modeling",
+            "Climate Sciences",
+            "Data Sciences"
+        ]
+    },
+    {
+        "title": "Satish Laxman Shinde",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Nanophotonics",
+            "Energy materials",
+            "Photothermal energy harvesting"
+        ]
+    },
+    {
+        "title": "Satyanarayana G.",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Transition-metal catalysis",
+            "Development of new methodology and Total synthesis and drug diversity oriented synthesis",
+            "Biomedical Materials"
+        ]
+    },
+    {
+        "title": "Satyavrata Samavedi",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Virginia Tech, Blacksburg, USA",
+            "Polymeric biomaterials",
+            "Electrospinning & nanofibers",
+            "Controlled drug & protein release"
+        ]
+    },
+    {
+        "title": "Saurabh Kumar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Cybersecurity",
+            "Android Security",
+            "Malware Analysis"
+        ]
+    },
+    {
+        "title": "Saurabh Sandilya",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Tata Institute of Fundamental Research, Mumbai",
+            "Belle & Belle II Experiments",
+            "HEP Detectors & Instrumentations",
+            "Neutrino Physics"
+        ]
+    },
+    {
+        "title": "Saurabh Kumar Singh",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Bombay",
+            "Computational Inorganic Chemistry",
+            "Molecular Magnetism",
+            "Electronic Structure Theory"
+        ]
+    },
+    {
+        "title": "Saurav Khuttiya Deori",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Guwahati",
+            "Visual Ethnography Research",
+            "Heritage Preservation",
+            "Branding-identity Designs"
+        ]
+    },
+    {
+        "title": "Savita Devi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Hyderabad, Telangana",
+            "Innate Immunity",
+            "Inflammation and Inflammasomes"
+        ]
+    },
+    {
+        "title": "Sayak Banerjee",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Stanford University",
+            "Experimental and Numerical Combustion Kinetics",
+            "Kinetic Model Reduction",
+            "Bio-fuel Combustion and Emission"
+        ]
+    },
+    {
+        "title": "Sayantee Jana",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: McMaster University",
+            "Data mining for Big Data",
+            "Spatio-temporal Modelling & Maps",
+            "AI/ML in finance and Precision Medicine"
+        ]
+    },
+    {
+        "title": "Seema Krishnakumar",
+        "content": [
+            "Assistant Professor",
+            "Information Design & Data visualisation",
+            "Storytelling",
+            "Interactive media"
+        ]
+    },
+    {
+        "title": "Seetha N.",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Porous Media",
+            "Colloids",
+            "Flow"
+        ]
+    },
+    {
+        "title": "Seshadri Sravan Kumar V.",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Grid Connected Renewable Energy Systems",
+            "Micro Grids",
+            "Voltage Stability"
+        ]
+    },
+    {
+        "title": "Shahid Mohammad",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Guwahati",
+            "Typography",
+            "Design Research",
+            "Visual Branding"
+        ]
+    },
+    {
+        "title": "Shantanu Desai",
+        "content": [
+            "Professor",
+            "Ph.D: Boston University, Boston",
+            "Galaxy clusters and cosmology",
+            "Pulsars",
+            "Astrostatistics and Data Mining"
+        ]
+    },
+    {
+        "title": "Sharada D. S.",
+        "content": [
+            "Associate Professor",
+            "Ph.D: School of Chemistry, University of Hyderabad",
+            "Organo-/Bio-/Photoredox Catalysis",
+            "Asymmetric Synthesis",
+            "Chemical Biology"
+        ]
+    },
+    {
+        "title": "Shashank Vatedka",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Electrical Communication Engineering",
+            "Wireless Communication & Networks",
+            "AI/ML"
+        ]
+    },
+    {
+        "title": "Shashidhar T",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Bioremediation",
+            "Contaminant Hydrology",
+            "Hydraulic Transients"
+        ]
+    },
+    {
+        "title": "Shelaka Gupta",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Delhi",
+            "Heterogeneous catalysis",
+            "Biomass",
+            "Density Functional Theory"
+        ]
+    },
+    {
+        "title": "Shirshendu Das",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Guwahati",
+            "Computer Architecture",
+            "Hardware Security",
+            "Emerging Memory Technologies"
+        ]
+    },
+    {
+        "title": "Shishir Kumar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Trinity College, Dublin",
+            "Micro-nanofluidics",
+            "Nanopores",
+            "2D Materials"
+        ]
+    },
+    {
+        "title": "Shiv Govind Singh",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Bombay",
+            "Wireless Communications",
+            "MIMO decoding",
+            "Commensal Radar"
+        ]
+    },
+    {
+        "title": "Shiva Ji",
+        "content": [
+            "Head (Design) & Associate Professor",
+            "Ph.D: IIT Guwahati",
+            "Architecture & Design",
+            "Design for Sustainability",
+            "Digital Heritage"
+        ]
+    },
+    {
+        "title": "Shourya Dutta Gupta",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Swiss Federal Institute of Technology Lausanne (EPFL), Lausanne, Vaud, Switzerland",
+            "Plasmonics",
+            "Nanophotonics",
+            "Biosensing"
+        ]
+    },
+    {
+        "title": "Shruti Upadhyaya",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Bombay",
+            "Satellite Hydro-Meteorology"
+        ]
+    },
+    {
+        "title": "Shubha Ranganathan",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Culture and mental health",
+            "Qualitative research methods",
+            "Gender"
+        ]
+    },
+    {
+        "title": "Shubhadeep Bhattacharjee",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Physics & engineering of semiconductor devices (experiments and theory)",
+            "Neuromorphic hardware for AI/ML computing",
+            "Cleanroom nanofabrication and characterization"
+        ]
+    },
+    {
+        "title": "Shubho Ranjan Roy",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Brown University",
+            "Nonperturbative String and Quantum Field theory",
+            "AdS/CFT",
+            "Quantum Black Holes"
+        ]
+    },
+    {
+        "title": "Shuhita Bhattacharjee",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of Iowa",
+            "Nineteenth-century literature and culture",
+            "Religion and the post-secular",
+            "Gender and sexuality studies"
+        ]
+    },
+    {
+        "title": "Shwetabh Yadav",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Experimental solid mechanics",
+            "Rock mechanics",
+            "Mechanics of large strain deformation"
+        ]
+    },
+    {
+        "title": "Sireesh S.",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Pavement Geotechnics",
+            "Geosynthetics",
+            "Recycled Materials"
+        ]
+    },
+    {
+        "title": "Siva Rama Krishna Vanjari",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Biosensors",
+            "Electrochemistry",
+            "MEMS"
+        ]
+    },
+    {
+        "title": "Sivakumar Vaidyanathan",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Madras",
+            "Organic Electronics",
+            "Lanthanide Luminescence",
+            "Light Emitting Diodes"
+        ]
+    },
+    {
+        "title": "Sk Zeeshan Ali",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kharagpur",
+            "Hydraulics",
+            "Water Resources Engineering",
+            "Fluid Dynamics"
+        ]
+    },
+    {
+        "title": "Sobhan Babu",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Big Data Analytics",
+            "Graph Theory",
+            "Algorithms"
+        ]
+    },
+    {
+        "title": "Somnath Maji",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Synthetic Coordination/Bio-Inorganic/ Organometallic Chemistry",
+            "Metal catalyzed Water Splitting/Carbon Dioxide Reduction/ Hydrogen Generation",
+            "Catalysis"
+        ]
+    },
+    {
+        "title": "Sonali Srivastav",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: School of Journalism and New Media Studies",
+            "Audio Visual Art Forms",
+            "Film Studies",
+            "Media Formats"
+        ]
+    },
+    {
+        "title": "Soumya Jana",
+        "content": [
+            "Professor",
+            "Ph.D: Universirty of Illinois, Urbana-Champaign",
+            "Biomedical image and signal analysis",
+            "Air quality analysis",
+            "Network information theory"
+        ]
+    },
+    {
+        "title": "Sourav Das",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: University of British Columbia, Canada",
+            "Wind Energy and Aerodynamics",
+            "Energy Harvesting",
+            "Reliability Engineering"
+        ]
+    },
+    {
+        "title": "Srabani Kar",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Time-resolved terahertz spectroscopy of low-dimensional materials",
+            "Contactless conductivity measurements",
+            "Optoelectronics of layered materials"
+        ]
+    },
+    {
+        "title": "Sri Rama Murty Kodukula",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Signal Processing",
+            "Speech Analysis",
+            "Recognition & Synthesis"
+        ]
+    },
+    {
+        "title": "Srijith P.K",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Probabilistic machine learning",
+            "Bayesian learning",
+            "Deep learning"
+        ]
+    },
+    {
+        "title": "Srikar A V R",
+        "content": [
+            "Assistant Professor",
+            "Product design",
+            "Materials and processes",
+            "Workplace design and ethnography"
+        ]
+    },
+    {
+        "title": "Srirupa Chatterjee",
+        "content": [
+            "Head (LA) & Associate Professor",
+            "Ph.D: IIT Kanpur",
+            "American literature",
+            "Body studies",
+            "Gender studies"
+        ]
+    },
+    {
+        "title": "Subha Narayan Rath",
+        "content": [
+            "Professor",
+            "Ph.D: National University of Singapore",
+            "Tissue engineering",
+            "Characterization and application of novel biomaterials",
+            "Stem cell research"
+        ]
+    },
+    {
+        "title": "Subhradeep Chatterjee",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Phase Transformations",
+            "Electron Microscopy",
+            "Welding and Solidification Processing"
+        ]
+    },
+    {
+        "title": "Subrahmanya Sastry Challa",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kanpur",
+            "Wavelets",
+            "Inverse problems",
+            "Sparse representation theory"
+        ]
+    },
+    {
+        "title": "Subrahmanyam Kalyanasundaram",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Georgia Institute of Technology",
+            "Theoretical Computer Science"
+        ]
+    },
+    {
+        "title": "Subrahmanyam Ch.",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Catalysis",
+            "Nanomaterials",
+            "Energy Systems"
+        ]
+    },
+    {
+        "title": "Subramaniam Kolluru V.L.",
+        "content": [
+            "Professor",
+            "Ph.D: Northwestern University, Evanston",
+            "Concrete Material and Structures",
+            "Structural Health Monitoring",
+            "Material Characterization"
+        ]
+    },
+    {
+        "title": "Sudarsanam Putla",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: CSIR-IICT, Hyderabad",
+            "Heterogeneous Catalysis",
+            "Catalysis",
+            "Energy"
+        ]
+    },
+    {
+        "title": "Suhail Rizvi Mohd",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Kanpur",
+            "Biomechanics",
+            "Biophysics",
+            "Systems Biology"
+        ]
+    },
+    {
+        "title": "Suhanya Duraiswamy",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: National University of Singapore",
+            "Microfluidics",
+            "Biomedical Materials",
+            "Biomedical Devices"
+        ]
+    },
+    {
+        "title": "Suhash Ranjan Dey",
+        "content": [
+            "Professor",
+            "Ph.D: Laboratory of Texture and applications to Materials, University of Paul Verlaine - Metz",
+            "Multi-Component Alloys",
+            "Titanium Alloys",
+            "CIGS/CZTS Solar Cells"
+        ]
+    },
+    {
+        "title": "Sukumar D",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Functional Analysis",
+            "Banach Algebra",
+            "Pure Mathematics"
+        ]
+    },
+    {
+        "title": "Sumohana S Channappayya",
+        "content": [
+            "Professor",
+            "Ph.D: The University of Texas",
+            "Image and Video Quality Assessment",
+            "Biomedical Image Processing",
+            "Machine Learning"
+        ]
+    },
+    {
+        "title": "Sundaram Vanka",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Notre Dame, Notre Dame, Indiana, USA",
+            "Wireless Communication & Networks"
+        ]
+    },
+    {
+        "title": "Sunil Kumar Maity",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kharagpur",
+            "Biofuels",
+            "Bioenergy",
+            "Biorefinery"
+        ]
+    },
+    {
+        "title": "Surajit Maity",
+        "content": [
+            "Associate Professor",
+            "Ph.D: IIT Bombay",
+            "Physical Chemistry",
+            "Spectroscopy and Dynamics of molecules, ions and radicals",
+            "High Performance Computing (HPC)"
+        ]
+    },
+    {
+        "title": "Surendra Kumar Martha",
+        "content": [
+            "Head (Chemistry) & Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Materials Electrochemistry with special emphasis on Lead-acid, Li-ion, Sodium ion batteries",
+            "Supercapacitors",
+            "Energy"
+        ]
+    },
+    {
+        "title": "Surendra Nadh Somala",
+        "content": [
+            "Associate Professor",
+            "Ph.D: California Institute of Technology (Caltech)",
+            "ML & DL",
+            "Seismic Isolation and anti-seismic devices",
+            "Seismic Resilience"
+        ]
+    },
+    {
+        "title": "Suresh Perumal",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Thermoelectric Materials & Devices",
+            "Thermoelectric Metrology",
+            "Magnetic Refrigeration"
+        ]
+    },
+    {
+        "title": "Suresh Kumar Garlapati",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Technische Universität Darmstadt, Germany",
+            "Printed and Flexible Electronics",
+            "Oxide Semiconductors",
+            "Electrolyte Gating"
+        ]
+    },
+    {
+        "title": "Suriya S. Prakash",
+        "content": [
+            "Professor",
+            "Ph.D: Missouri University of Science and Technology",
+            "Precast Systems",
+            "Prestressed Concrete",
+            "Structural Concrete Behavior"
+        ]
+    },
+    {
+        "title": "Surya kumar S.",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Bombay",
+            "Metal Additive Manufacturing",
+            "3D Printing",
+            "CAD/CAM"
+        ]
+    },
+    {
+        "title": "Suryanarayana Jammalamadaka",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Magnetic materials",
+            "Device physics",
+            "Spintronics"
+        ]
+    },
+    {
+        "title": "Sushmee Badhulika",
+        "content": [
+            "Professor",
+            "Ph.D: University of California",
+            "Flexible and wearable nanoelectronics",
+            "Nanomaterials based devices and circuits",
+            "Eco-friendly electronics"
+        ]
+    },
+    {
+        "title": "Syed Nizamuddin Khaderi",
+        "content": [
+            "Associate Professor",
+            "Ph.D: University of Groningen, The Netherlands",
+            "Solid mechanics",
+            "Impact mechanics",
+            "Fluid-structure interaction"
+        ]
+    },
+    {
+        "title": "Tanmoy Paul",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Indian Statistical Institute, Kolkata",
+            "Functional Analysis",
+            "Pure Mathematics"
+        ]
+    },
+    {
+        "title": "Tarali Devi",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Ewha Womans University, Seoul, South Korea",
+            "Bioinspired Bioinorganic Chemistry"
+        ]
+    },
+    {
+        "title": "Tarun Kanti Panda",
+        "content": [
+            "Professor",
+            "Ph.D: Free University, Berlin",
+            "Main group chemistry",
+            "Coordination chemistry",
+            "Lanthanide chemistry"
+        ]
+    },
+    {
+        "title": "Umashankar B.",
+        "content": [
+            "Professor",
+            "Ph.D: Purdue University",
+            "Foundation Engineering",
+            "Reinforced Soil",
+            "Soil-Structure Interaction"
+        ]
+    },
+    {
+        "title": "Vandana Sharma",
+        "content": [
+            "Professor",
+            "Ph.D: Physical Research Laboratory, Ahmedabad",
+            "Intense laser field interation with micro to nano particles",
+            "Table-top hard X-ray generation",
+            "Ultrafast imaging of small to complex molecules"
+        ]
+    },
+    {
+        "title": "Vaskar Sarkar",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Bombay",
+            "Flexible Power Point Tracking of PV Systems",
+            "Grid Integration of Renewables",
+            "Microgrid"
+        ]
+    },
+    {
+        "title": "Venkata Rao Kotagiri",
+        "content": [
+            "Associate Professor",
+            "Ph.D: JNCASR",
+            "Functional Organic Materials",
+            "Supramolecular Chemistry",
+            "Organic Semiconductors"
+        ]
+    },
+    {
+        "title": "Venkata Ganapathi Narasimha Kumar Ch",
+        "content": [
+            "Professor",
+            "Ph.D: Tata Institute of Fundamental Institute , Mumbai",
+            "Number Theory",
+            "Pure Mathematics"
+        ]
+    },
+    {
+        "title": "Venkatasubbaiah K.",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Kanpur",
+            "Computational Heat Transfer",
+            "Hypersonic Flows",
+            "Fluid Dynamics"
+        ]
+    },
+    {
+        "title": "Venkatesham B.",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Acoustics & Vibration",
+            "Transportation"
+        ]
+    },
+    {
+        "title": "Venku Naidu Dogga",
+        "content": [
+            "Professor",
+            "Ph.D: IIT Madras",
+            "Harmonic Analysis",
+            "Functional Analysis",
+            "Pure Mathematics"
+        ]
+    },
+    {
+        "title": "Vikas Krishnamurthy",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: Imperial College London",
+            "Applied Mathematics",
+            "Fluid Dynamics"
+        ]
+    },
+    {
+        "title": "Vineeth N Balasubramanian",
+        "content": [
+            "Professor",
+            "Ph.D: Arizona State University, USA",
+            "Deep Learning",
+            "Machine Learning",
+            "Computer Vision"
+        ]
+    },
+    {
+        "title": "Vinod M Janardhanan",
+        "content": [
+            "Professor",
+            "Ph.D: Karlsruhe Institute of Technology",
+            "Heterogeneous Catalysis",
+            "Fuel Cells",
+            "Catalysis"
+        ]
+    },
+    {
+        "title": "Vishal Sawant",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Bombay",
+            "Multi-agent Systems",
+            "Optimal Control",
+            "Autonomous Motion Planning"
+        ]
+    },
+    {
+        "title": "Vishnu R Unni",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: IIT Madras"
+        ]
+    },
+    {
+        "title": "Viswanath R R S R Chinthapenta",
+        "content": [
+            "Associate Professor",
+            "Ph.D: Brown University, Providence, RI-USA",
+            "Computational Solid Mechanics",
+            "First Principle Calculations",
+            "Multiscale Modelling"
+        ]
+    },
+    {
+        "title": "Yogesh Kumar Srivastava",
+        "content": [
+            "Assistant Professor",
+            "Ph.D: NTU Singapore",
+            "Terahertz Spectroscopy",
+            "Active/Passive Metamaterials",
+            "Ultrafast Quantum Photonic Devices"
+        ]
+    },
+    {
+        "title": "Zafar Ali Khan Mohammed",
+        "content": [
+            "Professor",
+            "Ph.D: IISc, Bengaluru",
+            "Wireless Communications",
+            "MIMO decoding",
+            "Commensal Radar",
+            "Visiting Faculty"
+        ]
+    },
+    {
+        "title": "Aravind Reddy Talla",
+        "content": [
+            "Visiting Assistant Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: Northwestern University, USA</h6> </div>",
+            "Machine Learning",
+            "Approximation Algorithms"
+        ]
+    },
+    {
+        "title": "C. Siva Ram Murthy",
+        "content": [
+            "Visiting Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: IISc, Bengaluru</h6> </div>",
+            "Wireless Networks",
+            "Lightwave Networks",
+            "Real-Time Systems",
+            "Adjunct Faculty"
+        ]
+    },
+    {
+        "title": "Dr. Ajay Srinivasamurthy",
+        "content": [
+            "Amazon Alexa",
+            "Adjunct Faculty",
+            "Department of Heritage Science & Technology",
+            "Speech",
+            "Audio"
+        ]
+    },
+    {
+        "title": "Dr. Amba Kulkarni",
+        "content": [
+            "University of Hyderabad",
+            "Adjunct Faculty",
+            "Department of Heritage Science & Technology",
+            "Computational and Natural Language Processing"
+        ]
+    },
+    {
+        "title": "Prof. A. G. Ramakrishnan",
+        "content": [
+            "IISc, Bengaluru",
+            "Adjunct Faculty",
+            "Department of Heritage Science & Technology",
+            "Optical Character Recognition",
+            "Text to Speech Technologies"
+        ]
+    },
+    {
+        "title": "Mr. Ajith Abraham George",
+        "content": [
+            "Freelancer",
+            "Adjunct Faculty",
+            "Department of Design",
+            "Sound Mixing Engineer",
+            "Music Mixing/Editor"
+        ]
+    },
+    {
+        "title": "Dr. Ambarish Kulkarni",
+        "content": [
+            "Manufacturing Futures Research Institute, Swinburne",
+            "Adjunct Faculty",
+            "Department of Design",
+            "<div class=\"text-center\"> <p style=\"font-size:14px; margin:0\"><b>Ph.D: Swinburne University of Technology</p> </div>",
+            "Augmented & Virtual Reality",
+            "Mixed Reality"
+        ]
+    },
+    {
+        "title": "Prof. Adekunle Olusola Adeyeye",
+        "content": [
+            "Trevelyan College, Durham University",
+            "Adjunct Professor",
+            "Department of Physics",
+            "Nanotechnology & Spintronics",
+            "Magnonic and Spin Wave Devices"
+        ]
+    },
+    {
+        "title": "Prof. Anjal Prakash",
+        "content": [
+            "Indian School of Business",
+            "Adjunct Faculty",
+            "Department of Liberal Arts",
+            "Climate Change and Adaptation",
+            "Integrated Water Resources Management"
+        ]
+    },
+    {
+        "title": "Dr. Alan O' Riordan",
+        "content": [
+            "Tyndall National Institute",
+            "Adjunct Professor",
+            "Department of Electrical Engineering",
+            "Nano-electrochemistry",
+            "Nano-bio photonics"
+        ]
+    },
+    {
+        "title": "Dr. Gokul Kumar",
+        "content": [
+            "Micron Technology",
+            "Adjunct Professor",
+            "Department of Electrical Engineering",
+            "Nano-electrochemistry",
+            "Nano-bio photonics"
+        ]
+    },
+    {
+        "title": "Prof. Amit Kumar Mishra",
+        "content": [
+            "National Spectrum Centre",
+            "Adjunct Professor",
+            "Department of Electrical Engineering",
+            "Applied Machine Learning",
+            "Cognitive Engineering"
+        ]
+    },
+    {
+        "title": "Prof. Balaji Rajagopalan",
+        "content": [
+            "University of Colorado Boulder, United States",
+            "Adjunct Professor",
+            "Department of Civil Engineering",
+            "Hydrology",
+            "Water Resources & Environmental Fluid Mechanics"
+        ]
+    },
+    {
+        "title": "Prof. Bhallamudi Ravi",
+        "content": [
+            "IIT Bombay",
+            "Adjunct Professor",
+            "Department of Entrepreneurship and Management",
+            "Metal casting design & simulation",
+            "Medical device innovation & entrepreneurship"
+        ]
+    },
+    {
+        "title": "Prof. Chetan Singh Solanki",
+        "content": [
+            "IIT Bombay",
+            "Adjunct Professor",
+            "Department of Climate Change",
+            "Solar Photovoltaic",
+            "Carbon nano tubes (CNT)"
+        ]
+    },
+    {
+        "title": "Prof. Vadapalli Chandrasekhar",
+        "content": [
+            "Tata Institute of Fundamental Research Hyderabad",
+            "Adjunct Professor",
+            "Department of Chemistry",
+            "Organometallic Chemistry",
+            "Inorganic Rings & Polymers"
+        ]
+    },
+    {
+        "title": "Prof. David W Graham",
+        "content": [
+            "Newcastle university (NU), UK",
+            "Adjunct Professor",
+            "Department of Civil Engineering",
+            "Public policy focused research",
+            "Polar microbiology and genetics"
+        ]
+    },
+    {
+        "title": "Dr. D Ravi Varma",
+        "content": [
+            "Consultant Interventional and Neuroradiologist, Citi Neuro Centre",
+            "Adjunct Faculty",
+            "Department of Biomedical Engineering",
+            "Advanced neuroimaging",
+            "MRI technology"
+        ]
+    },
+    {
+        "title": "Dr. Easwar Subramanian",
+        "content": [
+            "TCS Innovation Labs, India",
+            "Adjunct Faculty",
+            "Department of Artificial Intelligence",
+            "Data and Decision Sciences",
+            "Reinforcement Learning"
+        ]
+    },
+    {
+        "title": "Prof. Eung Jin Chun",
+        "content": [
+            "School of Physics, Korea Institute of Advance Study",
+            "Adjunct Professor",
+            "Department of Physics",
+            "Neutrino and Dark Matter Properties",
+            "Superstring and Supersymmetry Phenomenology"
+        ]
+    },
+    {
+        "title": "Prof. Eric Laenen",
+        "content": [
+            "Institute of Theoretical Physics, University of Amsterdam",
+            "Adjunct Professor",
+            "Department of Physics",
+            "Perturbative Quantum Chromodynamics",
+            "Phenomenology of the Standard Model"
+        ]
+    },
+    {
+        "title": "Prof. Gopikrishna Despande",
+        "content": [
+            "MRI Research Center, USA",
+            "Adjunct Professor",
+            "Department of Heritage Science & Technology",
+            "Signal and Image Processing",
+            "Functional Magnetic Resonance Imaging (fMRI)"
+        ]
+    },
+    {
+        "title": "Dr. Hideaki Ogawa",
+        "content": [
+            "Kyushu University, Japan",
+            "Adjunct Faculty",
+            "Department of Mechanical & Aerospace Engineering",
+            "Space Transportation Systems",
+            "Space Systems Engineering"
+        ]
+    },
+    {
+        "title": "Dr. Hemanth Noothalapati",
+        "content": [
+            "Shimane University, Japan",
+            "Adjunct Faculty",
+            "Department of Chemical Engineering",
+            "Single-Cell Imaging",
+            "Biomedical Applications"
+        ]
+    },
+    {
+        "title": "Prof. S. Irudaya Rajan",
+        "content": [
+            "Professor, CDS, Thiruvananthapuram, Kerala",
+            "Adjunct Professor",
+            "Department of Liberal Arts",
+            "<div class=\"text-center\"> <p style=\"font-size:14px; margin:0\">Ph.D: International Institute for Population Sciences</p> </div>",
+            "Demography",
+            "Migration Studies"
+        ]
+    },
+    {
+        "title": "Prof. Jandhyala B G Tilak",
+        "content": [
+            "Council for Social Development, New Delhi",
+            "Adjunct Professor",
+            "Department of Liberal Arts",
+            "Economic Growth",
+            "Education"
+        ]
+    },
+    {
+        "title": "Prof. K. S. Kannan",
+        "content": [
+            "IIT Madras",
+            "Adjunct Faculty",
+            "Department of Heritage Science & Technology"
+        ]
+    },
+    {
+        "title": "Dr. Kenzo Fujisue",
+        "content": [
+            "Member of the House of Councilors in the Diet (the national legislature of Japan)",
+            "Adjunct Professor",
+            "Department of Computer Science & Engineering",
+            "Science Policy",
+            "Management of Technology"
+        ]
+    },
+    {
+        "title": "Prof. Korada Subrahmanyam",
+        "content": [
+            "University of Hyderabad",
+            "Adjunct Professor",
+            "Department of Heritage Science & Technology",
+            "Pāņinian Grammar",
+            "Philosophy of Language"
+        ]
+    },
+    {
+        "title": "Prof. Karim Trabelsi",
+        "content": [
+            "IJCLab, France",
+            "Adjunct Professor",
+            "Department of Physics",
+            "Delay Systems",
+            "Robust Control"
+        ]
+    },
+    {
+        "title": "Dr Krishna Kanth Gowri Avalur",
+        "content": [
+            "Director R&D - AMS Semiconductors India, Hyderabad",
+            "Adjunct Professor",
+            "Department of Electrical Engineering",
+            "Microelectronics",
+            "VLSI Programme"
+        ]
+    },
+    {
+        "title": "Prof. Michael John Brennan",
+        "content": [
+            "University of Southampton",
+            "Adjunct Professor",
+            "Department of Mechanical & Aerospace Engineering",
+            "Mechanical Vibrations",
+            "Vibration Control and Measurement Technology"
+        ]
+    },
+    {
+        "title": "Dr. Manoj Kumar Buragohain",
+        "content": [
+            "DRDO, Hyderabad",
+            "Adjunct Faculty",
+            "Department of Mechanical & Aerospace Engineering",
+            "Innovation with AI in Composite technology"
+        ]
+    },
+    {
+        "title": "Prof. S. Majid Hassanizadeh S.",
+        "content": [
+            "Emeritus Professor at Department of Earth Sciences, Utrecht University",
+            "Adjunct Professor (SERB)",
+            "Department of Civil Engineering"
+        ]
+    },
+    {
+        "title": "Prof. Mariana Frank",
+        "content": [
+            "Concordia University",
+            "Adjunct Professor",
+            "Department of Physics",
+            "Supersymmetry",
+            "Spontaneous symmetry violation"
+        ]
+    },
+    {
+        "title": "Dr. Mohanan P. V",
+        "content": [
+            "Sree Chitra Tirunal Institute for Medical Sciences and Technology, Trivandrum",
+            "Adjunct Professor",
+            "Department of Biomedical Engineering",
+            "Toxicity/biocompatibility studies of materials and Medical devices",
+            "Toxicology of nanomaterials and immunotoxicity"
+        ]
+    },
+    {
+        "title": "Ms. Mridula Anand",
+        "content": [
+            "Mridula Center for Arts",
+            "Adjunct Faculty",
+            "Department of Liberal Arts"
+        ]
+    },
+    {
+        "title": "Dr. Naveen Sivadasan",
+        "content": [
+            "TCS Research, India",
+            "Adjunct Faculty",
+            "Department of Computer Science & Engineering",
+            "Applied Algorithms",
+            "Computational Biology"
+        ]
+    },
+    {
+        "title": "Prof. Nanda Kishore Kannuri",
+        "content": [
+            "Indian Institute of Public Health, Hyderabad",
+            "Adjunct Faculty",
+            "Department of Liberal Arts",
+            "Socio-Cultural and Ecological Determinants",
+            "Mental Health"
+        ]
+    },
+    {
+        "title": "Prof. Nina Sabnani",
+        "content": [
+            "IIT Bombay",
+            "Adjunct Professor",
+            "Department of Design",
+            "Kaavad",
+            "Storytelling"
+        ]
+    },
+    {
+        "title": "Dr. Ravi Balasubramanian",
+        "content": [
+            "Oregon State University School of Mechanical, Industrial and Manufacturing Engineering",
+            "Adjunct Faculty",
+            "Department of Heritage Science & Technology",
+            "Robotics and Human Biomechanics"
+        ]
+    },
+    {
+        "title": "Prof. Rama Jayasundar",
+        "content": [
+            "NMR All India Institute of Medical Sciences",
+            "Adjunct Professor",
+            "Department of Heritage Science & Technology",
+            "MR on clinical and animal scanners",
+            "High Resolution NMR"
+        ]
+    },
+    {
+        "title": "Dr. Rajib Shaw",
+        "content": [
+            "Keio University, Japan",
+            "Adjunct Faculty",
+            "Department of Climate Change",
+            "Urban Risk Management",
+            "Disaster Education"
+        ]
+    },
+    {
+        "title": "Prof. Vasant Shivram Shinde",
+        "content": [
+            "Deccan College",
+            "Adjunct Professor",
+            "Department of Heritage Science & Technology",
+            "Maritime History",
+            "Field Archaeology"
+        ]
+    },
+    {
+        "title": "Prof. Soumya Mohanty",
+        "content": [
+            "University of Texas Rio Grande Valley",
+            "Adjunct Professor",
+            "Department of Physics"
+        ]
+    },
+    {
+        "title": "Prof. D. Sakthi Kumar",
+        "content": [
+            "Toyo University, Japan",
+            "Adjunct Professor",
+            "Department of Biomedical Engineering",
+            "Nano medical devices",
+            "Plant Nanotechnology"
+        ]
+    },
+    {
+        "title": "Dr. Sikandar Shaikh",
+        "content": [
+            "Consultant PET-CT and Radiology Yashoda Hospitals",
+            "Adjunct Professor",
+            "Department of Biomedical Engineering",
+            "Radiology",
+            "Molecular Imaging"
+        ]
+    },
+    {
+        "title": "Prof. Soni Savai Pullamsetti",
+        "content": [
+            "Justus Liebig University Giessen, Germany",
+            "Adjunct Professor",
+            "Department of Biomedical Engineering",
+            "Transcription Factors (FoxO, Beta-catenin, HIF)",
+            "Epigenetic Mechanisms"
+        ]
+    },
+    {
+        "title": "Prof. Seiji Mitani",
+        "content": [
+            "NIMS, Japan",
+            "Adjunct Professor",
+            "Department of Materials Science And Metallurgical Engineering",
+            "Spintronics",
+            "Magnetic materials"
+        ]
+    },
+    {
+        "title": "Prof. Tata Narasinga Rao",
+        "content": [
+            "Director, International Advanced Research Centre for Power Metallurgy & New Materials (ARCI)",
+            "Adjunct Professor",
+            "Semiconductor Photo-electrochemistry",
+            "Photocatalysis"
+        ]
+    },
+    {
+        "title": "Mr. Timothy Marthand",
+        "content": [
+            "School of the Arts Singapore (SOTA)",
+            "Adjunct Faculty",
+            "Department of Liberal Arts"
+        ]
+    },
+    {
+        "title": "Prof. Undurti N. Das",
+        "content": [
+            "Consultant Physician & Diabetologist, Clinical Immunologist & Rheumatologist, CEO & CSO, UND Life Sciences, USA",
+            "Adjunct Professor",
+            "Department of BioTechnology",
+            "Polyunsaturated fatty acids and their metabolism"
+        ]
+    },
+    {
+        "title": "Prof. Uday Athavankar",
+        "content": [
+            "IIT Bombay",
+            "Adjunct Professor",
+            "Department of Design",
+            "Design Research",
+            "Product Semantics"
+        ]
+    },
+    {
+        "title": "Dr. Gaurav Sinha",
+        "content": [
+            "Microsoft Research India",
+            "Adjunct Faculty",
+            "Department of Artificial Intelligence",
+            "Reinforcement Learning",
+            "Causal Inference"
+        ]
+    },
+    {
+        "title": "Dr. V. L. Raju Chinthalapati",
+        "content": [
+            "University of London",
+            "Adjunct Faculty",
+            "Department of Artificial Intelligence",
+            "Financial Econometrics",
+            "AI/ML applications in Social Sciences"
+        ]
+    },
+    {
+        "title": "Prof. Vasudevanpillai Biju",
+        "content": [
+            "Hokkaido Universitys",
+            "Adjunct Professor",
+            "Photo Physics",
+            "Photo-functional Molecules"
+        ]
+    },
+    {
+        "title": "Prof. Vishwanath M. V.",
+        "content": [
+            "Kameshwar Singh Darbhanga Sanskrit University",
+            "Adjunct Professor",
+            "Department of Heritage Science & Technology"
+        ]
+    },
+    {
+        "title": "Dr. Yuka Kataoka",
+        "content": [
+            "Suzuki Motor Corporation, Japan",
+            "Adjunct Faculty",
+            "Department of Liberal Arts",
+            "Second or Foreign Language Education",
+            "Learning Management System",
+            "Distinguished Professors"
+        ]
+    },
+    {
+        "title": "Prof. Abhay Deshpande",
+        "content": [
+            "Stony Brook University",
+            "Distinguished Professor",
+            "Exploratory and Precision Studies in QCD"
+        ]
+    },
+    {
+        "title": "Dr. Bayya Yegnanarayana",
+        "content": [
+            "IIIT Hyderabad",
+            "Distinguished Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: IISc, Bengaluru</h6> </div>",
+            "Signal Processing",
+            "Speech Signal Processing",
+            "Computer Vision and Neural Networks"
+        ]
+    },
+    {
+        "title": "Prof Chennupati Jagadish",
+        "content": [
+            "Australian National University",
+            "Distinguished Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: University of Delhi</h6> </div>",
+            "Semiconductor Optoelectronics and Nanotechnology"
+        ]
+    },
+    {
+        "title": "Prof. Christopher C. Berndt",
+        "content": [
+            "Surface Engineering of Advanced Materials, Australia",
+            "Distinguished Professor",
+            "<br>",
+            "Coatings Technology",
+            "Biomaterials such Orthopaedic Devices",
+            "Failure of materials"
+        ]
+    },
+    {
+        "title": "Prof. Jun Murai",
+        "content": [
+            "Keio University",
+            "Distinguished Professor",
+            "<br>",
+            "Information network",
+            "Multimedia database",
+            "Information security"
+        ]
+    },
+    {
+        "title": "Prof. J. N. Reddy",
+        "content": [
+            "Texas A&M University",
+            "Distinguished Professor",
+            "<br>",
+            "Plates and shells",
+            "Finite Elements"
+        ]
+    },
+    {
+        "title": "Prof. James Francis Antaki",
+        "content": [
+            "Cornell Engineering",
+            "Distinguished Professor",
+            "<br>",
+            "Biomedical Engineering",
+            "Bioengineering",
+            "Biomechanics and Mechanobiology"
+        ]
+    },
+    {
+        "title": "Dr. Mallikarjun Tatipamula",
+        "content": [
+            "Ericsson",
+            "Distinguished Professor",
+            "<br>",
+            "5G",
+            "Distributed cloud/edge compute",
+            "SDN/NFV"
+        ]
+    },
+    {
+        "title": "Prof. Nobuhiro Tsuji",
+        "content": [
+            "Graduate School of Engineering, Kyoto University",
+            "Distinguished Professor",
+            "<br>",
+            "Structural Metallic Materials",
+            "Microstructure of Materials",
+            "Mechanical Property of Materials"
+        ]
+    },
+    {
+        "title": "Prof. Nemkumar Banthia",
+        "content": [
+            "University of British Columbia",
+            "Distinguished Professor",
+            "<br>",
+            "Sustainable Concrete Infrastructure",
+            "Nano-modified fiber reinforced composites",
+            "Ultra-high performance concrete materials"
+        ]
+    },
+    {
+        "title": "Dr. Omkaram Nalamasu",
+        "content": [
+            "Applied Materials, Inc",
+            "Distinguished Professor",
+            "<br>",
+            "Nanomanufacturing",
+            "Nanopatterning",
+            "Electronic and Photonic Materials"
+        ]
+    },
+    {
+        "title": "Dr. Pulickel M. Ajayan",
+        "content": [
+            "Rice University",
+            "Distinguished Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: Northwestern University</h6> </div>",
+            "Carbon Based Materials",
+            "Nanostructured Materials",
+            "2-D layered Materials"
+        ]
+    },
+    {
+        "title": "Paresh Kumar Narayan",
+        "content": [
+            "Professor & Consultant, Monash Business School, Monash University",
+            "Distinguished Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: Monash University</h6> </div>",
+            "Financial Econometrics",
+            "Applied Time Series Econometrics",
+            "Applied Finance Energy"
+        ]
+    },
+    {
+        "title": "Prof. Rohini M. Godbole",
+        "content": [
+            "IISc, Bengaluru",
+            "Distinguished Professor",
+            "<br>",
+            "New Particle Production at current and future colliders",
+            "Physics at Large Hadron Collider and Next Linear Collider",
+            "Supersymmetry and Electroweak Physics"
+        ]
+    },
+    {
+        "title": "Prof. Rao R. Tummala",
+        "content": [
+            "Georgia Institute of Technology, Atlanta, Ga, USA",
+            "Distinguished Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: IISc, Bengaluru</h6> </div>",
+            "Microsystems systems packaging",
+            "Electronic materials",
+            "Display technologies"
+        ]
+    },
+    {
+        "title": "Dr. Rao Surampalli",
+        "content": [
+            "President and CEO of 'Global Institute for Energy, Environment and Sustainability, Lenexa, Kansas'",
+            "Distinguished Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: Iowa State University, Ames, Iowa</h6> </div>",
+            "Climate change mitigation and adaptation",
+            "Recovery and reuse of resource and energy",
+            "Solid and hazardous waste management"
+        ]
+    },
+    {
+        "title": "Dr. Saraswat V K",
+        "content": [
+            "Member, Niti Ayog",
+            "Distinguished Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: Osmania University, Hyderabad</h6> </div>",
+            "Basic and Applied Sciences of Defence Research"
+        ]
+    },
+    {
+        "title": "Prof. Seeram Ramakrishna",
+        "content": [
+            "National University of Singapore",
+            "Distinguished Professor",
+            "<br>"
+        ]
+    },
+    {
+        "title": "Prof. Vidyasagar M FRS",
+        "content": [
+            "IIT Hyderabad",
+            "Distinguished Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: University of Wisconsin, Madison</h6> </div>",
+            "Machine Learning",
+            "System and Control Theory",
+            "Emeritus Faculty"
+        ]
+    },
+    {
+        "title": "Dr. Uday B. Desai",
+        "content": [
+            "IIT Hyderabad",
+            "Emeritus Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: Johns Hopkins University, U.S.A.</h6> </div>",
+            "Wireless Communication",
+            "Cognitive Radio",
+            "Wireless Sensor Networks and Statistical Signal Processing"
+        ]
+    },
+    {
+        "title": "Dr. Vinayak Eswaran",
+        "content": [
+            "IIT Hyderabad",
+            "Emeritus Professor",
+            "<div class=\"text-center\"> <h6>Ph.D: State University of New York at Stony Brook, U.S.A</h6> </div>",
+            "Computational Fluid Mechanics",
+            "Heat Transfer",
+            "Honorary Professors"
+        ]
+    },
+    {
+        "title": "Dr. Srivari Chandrasekhar",
+        "content": [
+            "DST Secretary",
+            "Honorary Professor",
+            "<br>",
+            "Synthetic Organic Chemistry",
+            "Advisors"
+        ]
+    },
+    {
+        "title": "Prof. Mohan Sangeneni",
+        "content": [
+            "Emeritus Professor, IISc, Bengaluru",
+            "Advisor-Innovation & Translational Research",
+            "High Vacuum and Ultrahigh Vacuum Technology",
+            "Thin Film Science & Technology",
+            "Micro & Nano Technology",
+            "Chair Professor"
+        ]
+    },
+    {
+        "title": "Prof. James Richard Sayer",
+        "content": [
+            "Director, UMTRI",
+            "TiHAN Chair Professor",
+            "Research Scientist",
+            "Human Factors"
+        ]
+    },
+    {
+        "title": "Prof. Kamesh Namuduri",
+        "content": [
+            "University of North Texas",
+            "TiHAN Chair Professor",
+            "Urban Air Mobility",
+            "UAV Networks and Communications"
+        ]
+    },
+    {
+        "title": "Rajalakshmi P.",
+        "content": [
+            "CYIENT Chair Professor",
+            "<div class=\"text-center\"> <p style=\"font-size:14px; margin:0\"><b>Ph.D: IITM</p> </div>",
+            "Internet of Intelligent Things",
+            "Artificial Intelligence"
+        ]
+    },
+    {
+        "title": "Prof. Raja Sengupta",
+        "content": [
+            "University of California, Berkeley",
+            "TiHAN Chair Professor",
+            "Transportation",
+            "Wireless Communications"
+        ]
+    },
+    {
+        "title": "Prof. Srikanth Saripalli",
+        "content": [
+            "Texas A & M University",
+            "TiHAN Chair Professor",
+            "Autonomous Vehicles",
+            "Unmanned Systems"
+        ]
+    },
+    {
+        "title": "Dr. Sri-Rajasekhar Kothapalli",
+        "content": [
+            "The Pennsylvania State University",
+            "CfHE Chair Professor",
+            "Next-Generation Therapies",
+            "Mechanisms of Carcinogenesis",
+            "Professor of Practice"
+        ]
+    },
+    {
+        "title": "Dr. K Bhanu Sankara Rao",
+        "content": [
+            "Pratt & Whitney Chair Professor, University of Hyderabad",
+            "Professor of Practice",
+            "Department of Materials Science And Metallurgical Engineering",
+            "Mechanical Metallurgy",
+            "Physical Metallurgy",
+            "/.container",
+            "Begin Footer ==================================================",
+            "/.site-content> JavaScript =================================================="
+        ]
+    }
+]

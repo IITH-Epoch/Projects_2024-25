@@ -1,0 +1,66 @@
+[
+    {
+        "title": "Programmes Offered",
+        "content": [
+            "Post Featured Image",
+            "End Featured Image",
+            "Post Content"
+        ]
+    },
+    {
+        "title": "Under Graduate",
+        "content": [
+            "IITH offers undergraduate programmes in science and engineering.",
+            "Bachelors of Technology (B.Tech)",
+            "Bachelors of Design (B.Des)"
+        ]
+    },
+    {
+        "title": "Post Graduate",
+        "content": [
+            "IITH offers postgraduate programs in science, engineering, liberal arts and design.",
+            "Master of Technology (M.Tech)",
+            "Master of Design (M.Des)",
+            "Master of Science (M.Sc)",
+            "Masters in Arts (MA)"
+        ]
+    },
+    {
+        "title": "Professional",
+        "content": [
+            "IITH offer the following professional programs:",
+            "Master of Technology (Executive M.Tech)",
+            "Click here for details.",
+            "Biodesign",
+            "The Dept. of Biomedical Engineering offers an executive M.Tech program in Biodesign. The program is an amalgamation of engineering and life sciences that will further propel the innovation in bioengineering through research and education."
+        ]
+    },
+    {
+        "title": "Doctoral Program",
+        "content": [
+            "All the departments at IITH offer PhD program",
+            "Click here for details."
+        ]
+    },
+    {
+        "title": "Admission to Foreign Nationals",
+        "content": [
+            "Foreign Nationals admissions are done through ICCR and Study in India.",
+            "Click here for details of admissions through ICCR",
+            "Click here for details of admissions through Study In India.",
+            "IITH offers a 2 years MTech program for foreign nationals in various departments.",
+            "Click here for more in detail"
+        ]
+    },
+    {
+        "title": "Online M Tech and MDes Programs",
+        "content": [
+            "Click here for more in detail",
+            "Post Date",
+            "End Post",
+            "/.container",
+            "Begin Footer ==================================================",
+            "/.site-content> JavaScript =================================================="
+        ]
+    }
+]

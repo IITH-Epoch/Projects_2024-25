@@ -1,0 +1,33 @@
+.markdown-body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    color: #fff;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .markdown-body h1,
+  .markdown-body h2,
+  .markdown-body h3 {
+    margin: 0.5em 0;
+    font-weight: bold;
+  }
+  
+  .markdown-body ul,
+  .markdown-body ol {
+    margin-left: 1.5em;
+    padding-left: 0.5em;
+  }
+  
+  .markdown-body li {
+    margin-bottom: 0.5em;
+  }
+  
+  .markdown-body code {
+    background-color: #111;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-family: monospace;
+  }
+  
