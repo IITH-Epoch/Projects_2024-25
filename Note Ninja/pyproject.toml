@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "note-ninja"
+version = "0.1.0"
+description = "Note Ninja, a student's best friend! (God this is cheesy)"
+authors = ["Ashwath <achuschram@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+pytesseract = "^0.3.13"
+pymupdf = "^1.25.1"
+streamlit = "^1.41.1"
+transformers = "^4.47.1"
+sentence-transformers = "^3.3.1"
+llama-index = "^0.12.8"
+llama-index-embeddings-google = "^0.3.0"
+llama-index-llms-gemini = "^0.4.2"
+accelerate = "^1.2.1"
+easyocr = "^1.7.2"
+tavily-python = "^0.5.0"
+llama-index-tools-tavily-research = "^0.3.0"
+spacy = "^3.8.3"
+sentencepiece = "^0.2.0"
+matplotlib = "^3.10.0"
+networkx = "^3.4.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
