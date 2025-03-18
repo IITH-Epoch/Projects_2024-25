@@ -56,3 +56,6 @@ Takes audio transcripts and detailed summary of keyframes (which we got after fi
     ```
     
 4. Upload your video file through the Streamlit interface.
+
+
+#### This project is done by Koleti Yashwanth Chowdary and Vishnupraneeswar part of Epoch Project Phase 2024-25
