@@ -22,7 +22,8 @@ from reportlab.lib.pagesizes import letter
 from reportlab.platypus import SimpleDocTemplate, Paragraph, Spacer
 from reportlab.lib.styles import getSampleStyleSheet
 
-genai.configure(api_key="AIzaSyA2OGVa77J4kaYnf_RB8yBJSXVdr7pECMo")
+# Keep api keys from Google AI Studio in next line
+genai.configure(api_key="")
 transcript = None
 
 keyf = []
