@@ -1,0 +1,17 @@
+To run this model, you will need:
+
+.A GPU
+.A Gemini API key
+.OpenCV with CUDA support
+.FFmpeg
+.ReportLab
+.The google-generativeai library
+
+Additionally, ensure you have the following libraries already installed:
+
+.NumPy
+.OS
+.Multiprocessing
+.Subprocess
+.Scikit-learn (sklearn)
+.HTTPX
